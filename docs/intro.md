@@ -25,15 +25,14 @@ OpenQMS 17025 addresses this by developing a complete, practical QMS in the open
 
 ## How it's organized
 
-The documentation follows the structure of ISO/IEC 17025:2017:
+Rather than rigidly following the standard clause by clause, OpenQMS is structured around **practical laboratory procedures and processes**. 
 
-| Clause | Topic |
-|--------|-------|
-| 4 | General requirements (impartiality, confidentiality) |
-| 5 | Structural requirements |
-| 6 | Resource requirements |
-| 7 | Process requirements |
-| 8 | Management system requirements |
+Each numbered section in the sidebar represents a core operational area of your lab (e.g., Sampling, Internal Audits, Equipment Calibration). Within each section, you will find:
+- A main procedure
+- Associated records
+- Forms and other necessary documents
+
+This process-based approach makes it much easier to implement and manage on a day-to-day basis while still ensuring complete compliance with the underlying ISO/IEC 17025:2017 clauses.
 
 ## Getting started
 

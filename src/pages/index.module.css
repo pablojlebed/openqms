@@ -1,24 +1,52 @@
 .heroBanner {
-  padding: 5rem 0;
+  padding: 8rem 0;
   text-align: center;
   position: relative;
   overflow: hidden;
-  background: linear-gradient(135deg, #1e3a8a 0%, #2563eb 60%, #3b82f6 100%);
+  background: var(--qms-hero-bg);
+  color: var(--qms-hero-text);
+  border-bottom: 1px solid var(--qms-card-border);
 }
 
 .heroBanner::before {
   content: '';
   position: absolute;
   inset: 0;
-  background-image: radial-gradient(circle at 20% 50%, rgba(255,255,255,0.06) 0%, transparent 50%),
-                    radial-gradient(circle at 80% 20%, rgba(255,255,255,0.04) 0%, transparent 40%);
+  background-image: 
+    radial-gradient(circle at 15% 50%, rgba(59, 130, 246, 0.08) 0%, transparent 40%),
+    radial-gradient(circle at 85% 30%, rgba(14, 165, 233, 0.08) 0%, transparent 40%);
   pointer-events: none;
+  animation: pulseBg 10s ease-in-out infinite alternate;
+}
+
+@keyframes pulseBg {
+  0% { transform: scale(1); }
+  100% { transform: scale(1.1); }
 }
 
 @media screen and (max-width: 996px) {
   .heroBanner {
-    padding: 3rem 1.5rem;
+    padding: 4rem 1.5rem;
   }
+}
+
+.heroTitle {
+  font-size: 3.5rem;
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  margin-bottom: 1rem;
+  background: var(--qms-hero-title-gradient);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  line-height: 1.2;
+}
+
+.heroSubtitle {
+  font-size: 1.25rem;
+  opacity: 0.8;
+  max-width: 600px;
+  margin: 0 auto;
 }
 
 .buttons {
@@ -26,5 +54,7 @@
   align-items: center;
   justify-content: center;
   gap: 1rem;
-  margin-top: 1.5rem;
+  margin-top: 2.5rem;
+  position: relative;
+  z-index: 10;
 }
