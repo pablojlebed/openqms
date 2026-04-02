@@ -26,7 +26,7 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/open-community.svg').default,
     description: (
       <>
-        Freely available under CC BY 4.0. Adapt it to your laboratory, contribute
+        Freely available under CC BY-NC 4.0. Adapt it to your laboratory, contribute
         improvements, and help build the best open QMS in the world.
       </>
     ),

@@ -142,7 +142,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} OpenQMS Contributors. Built with Docusaurus. Licensed under CC BY 4.0.`,
+      copyright: `Copyright © ${new Date().getFullYear()} OpenQMS Contributors. Built with Docusaurus. Licensed under CC BY-NC 4.0.`,
     },
     prism: {
       theme: prismThemes.github,

@@ -2,7 +2,7 @@
 
 An open, community-driven Quality Management System built step by step around **ISO/IEC 17025:2017** — the international standard for the competence of testing and calibration laboratories.
 
-All content is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Use it, adapt it, and contribute back.
+All content is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Use it, adapt it, and contribute back.
 
 ## What is this?
 
@@ -45,5 +45,5 @@ Contributions are welcome. If you have experience with ISO 17025, laboratory acc
 
 ## License
 
-Documentation and templates: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+Documentation and templates: [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
 Site source code: [MIT](https://opensource.org/licenses/MIT)
