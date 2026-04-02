@@ -15,14 +15,14 @@ const config: Config = {
   },
 
   // Set the production url of your site here
-  url: 'https://openqms.github.io',
+  url: 'https://openqms.thelabguy.org',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
   // GitHub pages deployment config.
-  organizationName: 'openqms',
-  projectName: 'openqms-17025',
+  organizationName: 'pablojlebed',
+  projectName: 'openqms',
 
   onBrokenLinks: 'throw',
 
