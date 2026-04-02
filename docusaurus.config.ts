@@ -50,6 +50,14 @@ const config: Config = {
     },
   ],
 
+  scripts: [
+    {
+      src: 'https://tracker.thelabguy.org/tracker.js',
+      async: true,
+      'data-host': 'https://tracker.thelabguy.org',
+    },
+  ],
+
   presets: [
     [
       'classic',
