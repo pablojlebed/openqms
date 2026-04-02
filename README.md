@@ -1,41 +1,49 @@
-# Website
+# OpenQMS 17025
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+An open, community-driven Quality Management System built step by step around **ISO/IEC 17025:2017** — the international standard for the competence of testing and calibration laboratories.
 
-## Installation
+All content is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Use it, adapt it, and contribute back.
+
+## What is this?
+
+Most laboratories pursuing ISO/IEC 17025 accreditation write the same documents from scratch. OpenQMS changes that by developing a complete, practical QMS in the open — clause by clause — so any laboratory can adopt it and build on it.
+
+The site includes:
+- Plain-language explanations of each ISO/IEC 17025 requirement
+- Ready-to-adapt policy and procedure templates
+- Implementation guidance for common laboratory types
+
+## Local development
 
 ```bash
-yarn
+npm install
+npm start
 ```
 
-## Local Development
-
-```bash
-yarn start
-```
-
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+Opens a dev server at `http://localhost:3000` with hot reload.
 
 ## Build
 
 ```bash
-yarn build
+npm run build
 ```
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+Generates static files into the `build/` directory.
 
-## Deployment
-
-Using SSH:
+## Deploy to GitHub Pages
 
 ```bash
-USE_SSH=true yarn deploy
+USE_SSH=true npm run deploy
 ```
 
-Not using SSH:
+## Contributing
 
-```bash
-GIT_USER=<Your GitHub username> yarn deploy
-```
+Contributions are welcome. If you have experience with ISO 17025, laboratory accreditation, or quality management:
 
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+- Open an issue to suggest improvements or report errors
+- Submit a pull request with new content, templates, or corrections
+
+## License
+
+Documentation and templates: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+Site source code: [MIT](https://opensource.org/licenses/MIT)
