@@ -1,47 +1,46 @@
 ---
 sidebar_position: 1
+title: Introduction to OpenQMS 17025
+description: OpenQMS 17025 is a free, open-source Quality Management System for laboratories seeking ISO/IEC 17025 accreditation. Learn how to use and adapt it for your lab.
+keywords: [ISO 17025, QMS, laboratory accreditation, quality management system, open source]
 ---
 
-# Tutorial Intro
+# Introduction to OpenQMS 17025
 
-Let's discover **Docusaurus in less than 5 minutes**.
+**OpenQMS 17025** is a free, open-source Quality Management System (QMS) built step by step around the requirements of **ISO/IEC 17025:2017** — the international standard for the competence of testing and calibration laboratories.
 
-## Getting Started
+## What is ISO/IEC 17025?
 
-Get started by **creating a new site**.
+ISO/IEC 17025 specifies the general requirements for the competence, impartiality, and consistent operation of laboratories. Accreditation to this standard is recognized worldwide and demonstrates that a laboratory produces technically valid results.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+## Why OpenQMS?
 
-### What you'll need
+Most laboratories building a QMS from scratch face the same challenges:
 
-- [Node.js](https://nodejs.org/en/download/) version 20.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+- The standard is comprehensive but provides no templates.
+- Commercial QMS solutions are expensive and often opaque.
+- Internal documents are rarely shared between organizations.
 
-## Generate a new site
+OpenQMS 17025 addresses this by developing a complete, practical QMS in the open — step by step, clause by clause — so any laboratory can adopt, adapt, and contribute to it.
 
-Generate a new Docusaurus site using the **classic template**.
+## How it's organized
 
-The classic template will automatically be added to your project after you run the command:
+The documentation follows the structure of ISO/IEC 17025:2017:
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+| Clause | Topic |
+|--------|-------|
+| 4 | General requirements (impartiality, confidentiality) |
+| 5 | Structural requirements |
+| 6 | Resource requirements |
+| 7 | Process requirements |
+| 8 | Management system requirements |
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+## Getting started
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+Browse the documentation in the sidebar to explore each clause. Each section includes:
 
-## Start your site
+- A plain-language explanation of the requirement
+- A ready-to-adapt policy or procedure template
+- Implementation guidance
 
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+> **Contributing:** OpenQMS is a community project. If you spot an error, have a better template, or want to add guidance for a specific lab type, open an issue or pull request on [GitHub](https://github.com/openqms/openqms-17025).

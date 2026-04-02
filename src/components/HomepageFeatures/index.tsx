@@ -11,32 +11,33 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Use',
+    title: 'ISO/IEC 17025 Aligned',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Every document, procedure, and policy is structured to meet the
+        requirements of ISO/IEC 17025:2017 for testing and calibration
+        laboratories.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Open & Community-Driven',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Freely available under CC BY 4.0. Adapt it to your laboratory, contribute
+        improvements, and help build the best open QMS in the world.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Step-by-Step Development',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Built incrementally and transparently — each clause of the standard is
+        addressed with practical templates, examples, and explanations.
       </>
     ),
   },

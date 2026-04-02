@@ -34,6 +34,22 @@ const config: Config = {
     locales: ['en'],
   },
 
+  // SEO metadata injected into every page
+  headTags: [
+    {
+      tagName: 'meta',
+      attributes: {name: 'keywords', content: 'ISO 17025, QMS, quality management system, laboratory accreditation, testing laboratory, calibration laboratory, open source QMS, ISO/IEC 17025'},
+    },
+    {
+      tagName: 'meta',
+      attributes: {property: 'og:type', content: 'website'},
+    },
+    {
+      tagName: 'meta',
+      attributes: {name: 'robots', content: 'index, follow'},
+    },
+  ],
+
   presets: [
     [
       'classic',
