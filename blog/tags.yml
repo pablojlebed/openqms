@@ -1,19 +1,19 @@
-facebook:
-  label: Facebook
-  permalink: /facebook
-  description: Facebook tag description
+iso-17025:
+  label: ISO/IEC 17025
+  permalink: /iso-17025
+  description: Posts related to ISO/IEC 17025 requirements and implementation.
 
-hello:
-  label: Hello
-  permalink: /hello
-  description: Hello tag description
+qms:
+  label: QMS
+  permalink: /qms
+  description: Quality Management System topics.
 
-docusaurus:
-  label: Docusaurus
-  permalink: /docusaurus
-  description: Docusaurus tag description
+accreditation:
+  label: Accreditation
+  permalink: /accreditation
+  description: Laboratory accreditation guidance and news.
 
-hola:
-  label: Hola
-  permalink: /hola
-  description: Hola tag description
+release:
+  label: Release
+  permalink: /release
+  description: Project releases and changelogs.
