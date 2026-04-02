@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+sidebar_position: 0
 title: Introduction to OpenQMS 17025
 description: OpenQMS 17025 is a free, open-source Quality Management System for laboratories seeking ISO/IEC 17025 accreditation. Learn how to use and adapt it for your lab.
 keywords: [ISO 17025, QMS, laboratory accreditation, quality management system, open source]
