@@ -1,8 +1,9 @@
-openqms:
-  name: OpenQMS Contributors
-  title: Open Quality Management System
-  url: https://github.com/pablojlebed/openqms
+pablo:
+  name: Pablo J. Lebed
+  title: Founder of OpenQMS
+  url: https://github.com/pablojlebed
   image_url: https://github.com/pablojlebed.png
   page: true
   socials:
-    github: openqms
+    github: pablojlebed
+    linkedin: pablojlebed
