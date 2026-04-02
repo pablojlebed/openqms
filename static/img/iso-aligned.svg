@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none">
+  <!-- Certificate / document -->
+  <rect x="40" y="25" width="120" height="150" rx="8" fill="#dbeafe" stroke="#2563eb" stroke-width="3"/>
+  <!-- Header bar -->
+  <rect x="40" y="25" width="120" height="36" rx="8" fill="#2563eb"/>
+  <rect x="40" y="49" width="120" height="12" fill="#2563eb"/>
+  <!-- Title text lines -->
+  <rect x="58" y="34" width="60" height="7" rx="3" fill="white" opacity="0.9"/>
+  <!-- Document lines -->
+  <rect x="58" y="80" width="84" height="6" rx="3" fill="#93c5fd"/>
+  <rect x="58" y="95" width="70" height="6" rx="3" fill="#93c5fd"/>
+  <rect x="58" y="110" width="78" height="6" rx="3" fill="#93c5fd"/>
+  <rect x="58" y="125" width="55" height="6" rx="3" fill="#93c5fd"/>
+  <!-- Big checkmark badge -->
+  <circle cx="138" cy="148" r="24" fill="#2563eb"/>
+  <circle cx="138" cy="148" r="20" fill="white" opacity="0.15"/>
+  <polyline points="127,148 134,156 150,138"
+            fill="none" stroke="white" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
