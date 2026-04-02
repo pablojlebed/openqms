@@ -43,4 +43,4 @@ Browse the documentation in the sidebar to explore each clause. Each section inc
 - A ready-to-adapt policy or procedure template
 - Implementation guidance
 
-> **Contributing:** OpenQMS is a community project. If you spot an error, have a better template, or want to add guidance for a specific lab type, open an issue or pull request on [GitHub](https://github.com/openqms/openqms-17025).
+> **Contributing:** OpenQMS is a community project. If you spot an error, have a better template, or want to add guidance for a specific lab type, open an issue or pull request on [GitHub](https://github.com/pablojlebed/openqms).

@@ -1,8 +1,8 @@
 openqms:
   name: OpenQMS Contributors
   title: Open Quality Management System
-  url: https://github.com/openqms/openqms-17025
-  image_url: https://github.com/openqms.png
+  url: https://github.com/pablojlebed/openqms
+  image_url: https://github.com/pablojlebed.png
   page: true
   socials:
     github: openqms

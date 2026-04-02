@@ -59,7 +59,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/openqms/openqms-17025/tree/main/',
+            'https://github.com/pablojlebed/openqms/tree/main/',
         },
         blog: {
           showReadingTime: true,
@@ -68,7 +68,7 @@ const config: Config = {
             xslt: true,
           },
           editUrl:
-            'https://github.com/openqms/openqms-17025/tree/main/',
+            'https://github.com/pablojlebed/openqms/tree/main/',
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
@@ -102,7 +102,7 @@ const config: Config = {
         },
         {to: '/blog', label: 'Updates', position: 'left'},
         {
-          href: 'https://github.com/openqms/openqms-17025',
+          href: 'https://github.com/pablojlebed/openqms',
           label: 'GitHub',
           position: 'right',
         },
@@ -129,7 +129,7 @@ const config: Config = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/openqms/openqms-17025',
+              href: 'https://github.com/pablojlebed/openqms',
             },
           ],
         },
