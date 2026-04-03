@@ -177,7 +177,7 @@ Every controlled document shall include:
 | Appendix 2 — List of External Documents | [00-App-02](./appendix-02-external-documents) |
 | Appendix 3 — List of Types of Records | [00-App-03](./appendix-03-types-of-records) |
 | Appendix 4 — Registry of Records for Retention/Central Archive | [00-App-04](./appendix-04-registry-of-records) |
-| 03 — Quality Manual | [Procedure 03](../03-quality-manual/) |
+| 03 — Quality Manual | [Procedure 03](../03-quality-manual/index.md) |
 
 ## 9. Revision history
 
