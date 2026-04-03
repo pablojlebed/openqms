@@ -131,24 +131,50 @@ const config: Config = {
       style: 'dark',
       links: [
         {
-          title: 'QMS Docs',
+          title: 'Learn',
           items: [
             {
               label: 'Introduction',
               to: '/docs/intro',
             },
+            {
+              label: 'Procedures',
+              to: '/docs/00-document-record-control/',
+            },
           ],
         },
         {
-          title: 'More',
+          title: 'Participate',
           items: [
+            {
+              label: 'Contributing',
+              href: 'https://github.com/pablojlebed/openqms/issues',
+            },
             {
               label: 'Updates',
               to: '/blog',
             },
+          ],
+        },
+        {
+          title: 'Find Us',
+          items: [
             {
               label: 'GitHub',
               href: 'https://github.com/pablojlebed/openqms',
+            },
+          ],
+        },
+        {
+          title: 'Legal',
+          items: [
+            {
+              label: 'License (CC BY-NC 4.0)',
+              href: 'https://creativecommons.org/licenses/by-nc/4.0/',
+            },
+            {
+              label: 'AI Disclosure',
+              to: '/blog/ai-assisted-development',
             },
           ],
         },
