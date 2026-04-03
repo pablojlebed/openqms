@@ -27,10 +27,18 @@ OpenQMS 17025 addresses this by developing a complete, practical QMS in the open
 
 Rather than rigidly following the standard clause by clause, OpenQMS is structured around **practical laboratory procedures and processes**. 
 
-Each numbered section in the sidebar represents a core operational area of your lab (e.g., Sampling, Internal Audits, Equipment Calibration). Within each section, you will find:
-- A main procedure
-- Associated records
-- Forms and other necessary documents
+Each numbered section in the sidebar represents a core operational area of your lab (e.g., Sampling, Internal Audits, Equipment Calibration). Within each section, you will find procedures, appendices, and the templates used to generate records.
+
+### Key concepts
+
+| Concept | What it is | Example |
+|---|---|---|
+| **Procedure** | Describes *how* to do something | Procedure 08 — Equipment Maintenance, Calibration and Verification |
+| **Appendix** | The blank tool used to *do* it (a form, template, checklist, or register that supports a procedure) | 08-App-02 — Calibrated Equipment Record (blank form) |
+| **Record** | The evidence that it *was done* — frozen in time, never revised | A completed calibration certificate for a specific instrument on a specific date |
+| **Register** | A type of appendix that accumulates entries over time — a living document | 08-App-01 — List of Laboratory Equipment (updated when instruments are purchased or decommissioned) |
+
+Appendices are **controlled documents** — they get revised when the template changes. When someone fills in an appendix, the result is a **record** that is retained as-is.
 
 This process-based approach makes it much easier to implement and manage on a day-to-day basis while still ensuring complete compliance with the underlying ISO/IEC 17025:2017 clauses.
 

@@ -52,6 +52,15 @@
   --qms-card-border: rgba(255, 255, 255, 0.08);
 }
 
+/* Ensure links inside admonitions are visibly styled */
+.alert a {
+  color: var(--ifm-color-primary);
+  text-decoration: none;
+}
+.alert a:hover {
+  text-decoration: underline;
+}
+
 /* Glassmorphism navbar in dark mode */
 [data-theme='dark'] .navbar {
   backdrop-filter: blur(12px);
