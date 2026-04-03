@@ -42,4 +42,12 @@ Browse the documentation in the sidebar to explore each clause. Each section inc
 - A ready-to-adapt policy or procedure template
 - Implementation guidance
 
+## About AI-assisted development
+
+OpenQMS is developed with the assistance of artificial intelligence. We use AI as a drafting and research tool to accelerate the creation of procedures, templates, and guidance — but every piece of content is directed, reviewed, and validated by professionals with domain expertise in laboratory quality management.
+
+We believe in transparency: AI helps us produce more detailed, consistent, and accessible documentation faster than traditional methods. The domain knowledge, editorial judgment, and final responsibility remain human.
+
+You can read more about our approach in the blog post [Why we develop OpenQMS with AI](/blog/ai-assisted-development).
+
 > **Contributing:** OpenQMS is a community project. If you spot an error, have a better template, or want to add guidance for a specific lab type, open an issue or pull request on [GitHub](https://github.com/pablojlebed/openqms).
