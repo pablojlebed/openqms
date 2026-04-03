@@ -65,11 +65,11 @@ This procedure applies to all QMS documents and records, whether in paper or ele
 
 | Role | Responsibility |
 |---|---|
-| **Quality Manager** | Overall responsibility for the document and record control system. Approves all QMS procedures and maintains the master document list. |
-| **Laboratory Director** | Approves the Quality Manual, Quality Policy, and any documents with strategic or technical significance. |
-| **Technical Manager** | Responsible for technical records (test data, calibration results, method validations). Reviews and approves technical documents and work instructions. |
-| **Document author** | Drafts or revises documents. Ensures technical accuracy of the content. |
-| **All personnel** | Use only current, approved documents. Report any discrepancies or need for revisions to the Quality Manager. |
+| **Laboratory Director** | Ultimate accountability for the QMS (ISO/IEC 17025, clause 5.7). Approves the Quality Manual, Quality Policy, and any documents with strategic significance. Resolves disputes regarding document or record control when escalation is required. |
+| **Quality Manager** | Overall responsibility for the document and record control system. Assigns document numbers, approves QMS procedures, maintains the List of Internal Documents, and establishes the laboratory's record retention policy. Ensures management system records are complete and properly identified. |
+| **Technical Manager** | Responsible for technical records (test data, calibration results, method validations). Reviews and approves technical documents and work instructions. Ensures technical records contain sufficient information for reproducibility. |
+| **Document author** | Drafts or revises documents using the applicable template or format. Coordinates with reviewers and the Quality Manager to ensure accuracy and compliance before submission for approval. |
+| **All personnel** | Use only current, approved documents. Create legible, complete, and traceable records. Protect records from damage or loss. Report any discrepancies or need for revisions to the Quality Manager. |
 
 ## 6. Procedure — Document Control
 
@@ -77,7 +77,7 @@ This procedure applies to all QMS documents and records, whether in paper or ele
 
 Every controlled document shall include:
 
-- A unique document number (following the numbering scheme in [Appendix 1](./appendix-01-internal-documents))
+- A unique document number, assigned by the **Quality Manager** (following the numbering scheme in [Appendix 1](./appendix-01-internal-documents))
 - Document title
 - Revision number (starting at 00)
 - Effective date
@@ -119,7 +119,7 @@ Every controlled document shall include:
 
 ### 6.6 Obsolete documents
 
-1. Obsolete documents are promptly removed from all points of use.
+1. The **Quality Manager** ensures that obsolete documents are promptly removed from all points of use.
 2. If retained for legal or knowledge-preservation purposes, obsolete documents shall be clearly marked as **"OBSOLETE — NOT FOR USE"** to prevent unintended use.
 
 ### 6.7 External documents
@@ -134,13 +134,16 @@ Every controlled document shall include:
 
 1. Records are generated as evidence of conformity to requirements, of the effective operation of the QMS, and of the laboratory's technical activities.
 2. Each record shall be legible, readily identifiable, and traceable to the activity it relates to.
-3. Forms used to generate records are controlled documents (see Section 6).
+3. Technical records shall contain sufficient information to enable repetition of the laboratory activity under conditions as close as possible to the original (ISO/IEC 17025, clause 7.5). The **Technical Manager** is responsible for ensuring technical records meet this requirement.
+4. The **Quality Manager** is responsible for ensuring management system records (audit reports, review minutes, training records) are complete and properly identified.
+5. Forms used to generate records are controlled documents (see Section 6).
 
 ### 7.2 Storage and protection
 
 1. Records shall be stored in a manner that prevents damage, deterioration, or loss.
 2. Electronic records shall be backed up at defined intervals and protected from unauthorized access, modification, or deletion.
 3. Paper records shall be stored in a secure, designated location.
+4. The **Quality Manager** is responsible for the storage of management system records. The **Technical Manager** is responsible for the storage of technical records (test data, calibration results, method validations).
 
 ### 7.3 Access and retrieval
 
@@ -155,18 +158,20 @@ Every controlled document shall include:
    - Regulatory or contractual obligations
    - The laboratory's own policy (minimum **[X] years** from the date of creation, or as specified per record type)
 
-2. Retention periods for each type of record are defined in the **List of Types of Records** ([Appendix 3](./appendix-03-types-of-records)).
+2. The **Quality Manager** establishes and periodically reviews the laboratory's retention policy, in consultation with the Technical Manager and Laboratory Director.
+3. Retention periods for each type of record are defined in the **List of Types of Records** ([Appendix 3](./appendix-03-types-of-records)).
 
 ### 7.5 Amendments to records
 
 1. If a record requires correction, the original entry shall not be erased or made illegible.
 2. The original value shall be crossed out (not deleted), and the corrected value written alongside.
 3. All amendments shall be signed or initialed and dated by the person making the correction.
-4. For electronic records, equivalent controls shall ensure that original data is preserved and changes are traceable (e.g., audit trails).
+4. Amendments to technical records shall be reviewed or authorized by the **Technical Manager**.
+5. For electronic records, equivalent controls shall ensure that original data is preserved and changes are traceable (e.g., audit trails).
 
 ### 7.6 Disposal
 
-1. Records that have exceeded their retention period may be disposed of with the approval of the Quality Manager.
+1. Records that have exceeded their retention period may be disposed of with the approval of the **Quality Manager** (for management system records) or the **Technical Manager** (for technical records).
 2. Disposal shall be carried out in a manner that ensures confidentiality (e.g., shredding, secure deletion).
 3. Disposal shall be documented in the **Registry of Records for Retention/Central Archive** ([Appendix 4](./appendix-04-registry-of-records)).
 
