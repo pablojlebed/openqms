@@ -87,21 +87,21 @@ Every controlled document shall include:
 ### 6.2 Creation and review
 
 1. The **author** drafts the document using the applicable template or format.
-2. The draft is reviewed by at least one person with relevant technical knowledge who was not the sole author.
+2. The draft is reviewed by at least one person with relevant knowledge who was not the sole author. In small laboratories where personnel availability is limited, the Quality Manager or Laboratory Director may serve as the sole reviewer.
 3. The **Quality Manager** reviews the document for compliance with the QMS structure and ISO/IEC 17025 requirements.
 
 ### 6.3 Approval
 
-1. Procedures and policies are approved by the **Quality Manager** (or **Laboratory Director** for the Quality Manual and Quality Policy).
-2. Approval is recorded by signature (physical or electronic) and date on the document or on a separate approval form.
-3. No document shall be distributed or used prior to approval.
+1. Management system procedures and policies are approved by the **Quality Manager** (or **Laboratory Director** for the Quality Manual and Quality Policy).
+2. Technical documents (work instructions, SOPs, test methods) are approved by the **Technical Manager**.
+3. Approval is recorded by signature (physical or electronic) and date on the document or on a separate approval form.
+4. No document shall be distributed or used prior to approval.
 
 ### 6.4 Distribution
 
 1. Approved documents are made available to all personnel who need them at their points of use.
 2. The Quality Manager maintains a **List of Internal Documents** ([Appendix 1](./appendix-01-internal-documents)) recording the current revision and distribution of each document.
-3. When a new revision is issued, all previous copies are withdrawn and replaced.
-4. Electronic systems shall ensure that users can only access the current approved version.
+3. When a new revision is issued, previous copies shall be withdrawn and replaced. For paper-based distribution, the Quality Manager confirms withdrawal from each recipient using the distribution list. Electronic document management systems shall ensure that users can only access the current approved version.
 
 ### 6.5 Revision and change control
 
@@ -126,7 +126,8 @@ Every controlled document shall include:
 
 1. The laboratory identifies external documents necessary for the QMS (e.g., ISO standards, regulatory requirements, equipment manuals).
 2. These are recorded in the **List of External Documents** ([Appendix 2](./appendix-02-external-documents)).
-3. The Quality Manager monitors external documents for updates (e.g., new editions of standards) and initiates a review of affected internal documents when changes occur.
+3. The **Quality Manager** is responsible for monitoring external documents for updates. Monitoring methods may include subscribing to standards body notification services, checking publisher websites at defined intervals, or assigning specific personnel to track specific standards relevant to their area.
+4. When an updated version of an external document is identified, the Quality Manager initiates a review of affected internal procedures and coordinates any necessary revisions.
 
 ## 7. Procedure — Record Control
 
@@ -141,8 +142,8 @@ Every controlled document shall include:
 ### 7.2 Storage and protection
 
 1. Records shall be stored in a manner that prevents damage, deterioration, or loss.
-2. Electronic records shall be backed up at defined intervals and protected from unauthorized access, modification, or deletion.
-3. Paper records shall be stored in a secure, designated location.
+2. Electronic records shall be backed up at intervals defined by the **Quality Manager** (e.g., daily, weekly). The person or function responsible for performing backups shall be designated, and backup integrity shall be verified periodically (e.g., through test restores).
+3. Paper records shall be stored in a secure, designated location with appropriate environmental controls.
 4. The **Quality Manager** is responsible for the storage of management system records. The **Technical Manager** is responsible for the storage of technical records (test data, calibration results, method validations).
 
 ### 7.3 Access and retrieval
@@ -167,13 +168,18 @@ Every controlled document shall include:
 2. The original value shall be crossed out (not deleted), and the corrected value written alongside.
 3. All amendments shall be signed or initialed and dated by the person making the correction.
 4. Amendments to technical records shall be reviewed or authorized by the **Technical Manager**.
-5. For electronic records, equivalent controls shall ensure that original data is preserved and changes are traceable (e.g., audit trails).
+5. For electronic records, the system shall:
+   - Preserve the original entry (no overwriting or deletion)
+   - Record the corrected value, the identity of the person making the change, and the date
+   - Require a reason for the correction where the system supports it
+   - Maintain an audit trail that is accessible for review but protected from modification
 
 ### 7.6 Disposal
 
-1. Records that have exceeded their retention period may be disposed of with the approval of the **Quality Manager** (for management system records) or the **Technical Manager** (for technical records).
-2. Disposal shall be carried out in a manner that ensures confidentiality (e.g., shredding, secure deletion).
-3. Disposal shall be documented in the **Registry of Records for Retention/Central Archive** ([Appendix 4](./appendix-04-registry-of-records)).
+1. Record disposal shall be conducted through a periodic review (at least annually). The **Quality Manager** prepares a list of records that have exceeded their retention period, in consultation with the **Technical Manager** for technical records.
+2. The disposal list is reviewed and authorized by the **Laboratory Director** before any records are destroyed.
+3. Disposal shall be carried out in a manner that ensures confidentiality (e.g., shredding, secure deletion).
+4. All disposals shall be documented in the **Registry of Records for Retention/Central Archive** ([Appendix 4](./appendix-04-registry-of-records)).
 
 ## 8. Related documents
 
