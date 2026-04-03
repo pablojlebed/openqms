@@ -139,7 +139,7 @@ const config: Config = {
             },
             {
               label: 'Procedures',
-              to: '/docs/00-document-record-control/',
+              to: '/docs/document-record-control/',
             },
           ],
         },
