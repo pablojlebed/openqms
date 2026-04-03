@@ -63,6 +63,10 @@ This procedure applies to all QMS documents and records, whether in paper or ele
 
 ## 5. Responsibilities
 
+:::info
+In smaller laboratories, one person may fulfil multiple roles (e.g., the Laboratory Director may also act as Technical Manager). What matters is that the responsibilities are assigned and that the person is aware of each role they hold. Where impartiality could be compromised by combining roles (e.g., authoring and approving the same document), appropriate safeguards should be in place.
+:::
+
 | Role | Responsibility |
 |---|---|
 | **Laboratory Director** | Ultimate accountability for the QMS (ISO/IEC 17025, clause 5.7). Approves the Quality Manual, Quality Policy, and any documents with strategic significance. Resolves disputes regarding document or record control when escalation is required. |

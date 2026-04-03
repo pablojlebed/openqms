@@ -42,6 +42,10 @@ Appendices are **controlled documents** — they get revised when the template c
 
 This process-based approach makes it much easier to implement and manage on a day-to-day basis while still ensuring complete compliance with the underlying ISO/IEC 17025:2017 clauses.
 
+### A note on roles
+
+Throughout these procedures you will see references to the **Laboratory Director**, **Quality Manager**, **Technical Manager**, and other roles. These are **functions**, not necessarily separate people. In smaller laboratories, one person may fulfil multiple roles. What matters is that every responsibility is explicitly assigned and that impartiality is maintained — for example, the same person should not both author and approve the same document.
+
 ## Getting started
 
 Browse the documentation in the sidebar to explore each clause. Each section includes:
