@@ -34,26 +34,26 @@ This procedure applies to all QMS documents and records, whether in paper or ele
 - External documents (standards, regulations, manufacturer manuals)
 
 **Records:**
-- Completed forms
-- Test and calibration results
+- Test and calibration results (raw data, worksheets, calculations)
 - Equipment calibration certificates
-- Training records
+- Training and competence records
 - Audit reports
 - Management review minutes
-- Correspondence affecting the quality of laboratory activities
+- Customer contracts and correspondence affecting laboratory activities
 
 ## 3. References
 
-- ISO/IEC 17025:2017, Clause 8.4 — Control of documents and records
 - ISO/IEC 17025:2017, Clause 7.5 — Technical records
+- ISO/IEC 17025:2017, Clause 7.11 — Control of data and information management
 - ISO/IEC 17025:2017, Clause 8.3 — Control of management system documents (Option A)
+- ISO/IEC 17025:2017, Clause 8.4 — Control of management system records (Option A)
 
 ## 4. Definitions
 
 | Term | Definition |
 |---|---|
 | **Document** | Information and its supporting medium that defines, specifies, or describes activities, requirements, or results. Documents are subject to revision control. |
-| **Record** | A document that states results achieved or provides evidence of activities performed. Records are not revised — they are retained as-is. |
+| **Record** | A document that states results achieved or provides evidence of activities performed. This includes technical records (observations, data, calculations) and management system records (audit reports, review minutes). Records are not revised — they are retained as-is. |
 | **Controlled document** | A document issued under the authority of this procedure, with a known revision status and distribution. |
 | **Obsolete document** | A superseded document that is no longer valid for use. |
 | **External document** | A document of external origin that the laboratory has identified as necessary for the QMS (e.g., standards, regulations). |
@@ -67,6 +67,7 @@ This procedure applies to all QMS documents and records, whether in paper or ele
 |---|---|
 | **Quality Manager** | Overall responsibility for the document and record control system. Approves all QMS procedures and maintains the master document list. |
 | **Laboratory Director** | Approves the Quality Manual, Quality Policy, and any documents with strategic or technical significance. |
+| **Technical Manager** | Responsible for technical records (test data, calibration results, method validations). Reviews and approves technical documents and work instructions. |
 | **Document author** | Drafts or revises documents. Ensures technical accuracy of the content. |
 | **All personnel** | Use only current, approved documents. Report any discrepancies or need for revisions to the Quality Manager. |
 
@@ -80,7 +81,7 @@ Every controlled document shall include:
 - Document title
 - Revision number (starting at 00)
 - Effective date
-- Page number and total pages (e.g., Page 1 of 5)
+- Page number and total pages (e.g., Page 1 of 5) — where applicable to the document format
 - Approval signature or equivalent authorization
 
 ### 6.2 Creation and review
@@ -131,7 +132,7 @@ Every controlled document shall include:
 
 ### 7.1 Identification and creation
 
-1. Records are generated as evidence of conformity to requirements and of the effective operation of the QMS.
+1. Records are generated as evidence of conformity to requirements, of the effective operation of the QMS, and of the laboratory's technical activities.
 2. Each record shall be legible, readily identifiable, and traceable to the activity it relates to.
 3. Forms used to generate records are controlled documents (see Section 6).
 
@@ -145,7 +146,7 @@ Every controlled document shall include:
 
 1. Records shall be retrievable within a reasonable time.
 2. Access to records shall be controlled to protect confidentiality and prevent unauthorized modification.
-3. The Quality Manager shall define access permissions as appropriate.
+3. The Quality Manager (for management system records) and Technical Manager (for technical records) shall define access permissions as appropriate.
 
 ### 7.4 Retention
 
