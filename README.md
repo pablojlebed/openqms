@@ -11,7 +11,44 @@ Most laboratories pursuing ISO/IEC 17025 accreditation write the same documents 
 The site includes:
 - Plain-language explanations of each ISO/IEC 17025 requirement
 - Ready-to-adapt policy and procedure templates
-- Implementation guidance for common laboratory types
+- Implementation guidance with a battery materials characterization laboratory as a worked example
+
+## Laboratory context
+
+The procedures use a **lithium-ion battery cathode and anode materials characterization laboratory** as a concrete example throughout. The example scope includes elemental composition (ICP-OES), moisture content (Karl Fischer), particle size distribution (laser diffraction), specific surface area (BET), and organic impurity analysis (HPLC-UV). All templates are designed to be adapted to any laboratory type.
+
+## Procedures
+
+The QMS is organized into 22 procedures (00–21), each covering a specific element of ISO/IEC 17025:
+
+| # | Procedure | Status |
+|---|---|---|
+| 00 | Document and Record Control | Complete |
+| 01 | Project Plan | Complete |
+| 02 | Quality Policy | Complete |
+| 03 | Quality Manual | In progress |
+| 04 | Competence and Training | In progress |
+| 05 | Risks and Opportunities | In progress |
+| 06 | Externally Provided Services | In progress |
+| 07 | Facilities and Environment | In progress |
+| 08 | Equipment and Calibration | In progress |
+| 09 | Customer Service | In progress |
+| 10 | Test and Calibration Methods | In progress |
+| 11 | Quality Assurance | In progress |
+| 12 | Sampling | In progress |
+| 13 | Handling of Items | In progress |
+| 14 | Complaints and Nonconformity | In progress |
+| 15 | Measurement Uncertainty | In progress |
+| 16 | Testing Reports | In progress |
+| 17 | Calibration Certificates | In progress |
+| 18 | Internal Audit | In progress |
+| 19 | Management Review | In progress |
+| 20 | Research Projects | In progress |
+| 21 | Continuous Improvement | In progress |
+
+## AI-assisted development
+
+Content is drafted with the assistance of AI tools and reviewed by humans with ISO/IEC 17025 experience. This approach is [disclosed transparently](https://openqms.thelabguy.org/blog/ai-assisted-development) and aims to make quality management documentation more accessible, especially for small laboratories and those in developing countries.
 
 ## Local development
 
@@ -28,7 +65,7 @@ Opens a dev server at `http://localhost:3000` with hot reload.
 npm run build
 ```
 
-Generates static files into the `build/` directory.
+Generates static files into the `build/` directory. The build also validates all internal links.
 
 ## Deploy to GitHub Pages
 
