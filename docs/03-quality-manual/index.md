@@ -23,9 +23,9 @@ To describe the overall structure and scope of the laboratory's Quality Manageme
 
 **Location:** *[Address]*
 
-**Scope of accreditation (to be achieved):**
+**Current scope (in operation):**
 
-The laboratory provides testing and characterization services for lithium-ion battery cathode and anode materials. Services include:
+The laboratory provides testing and characterization services for lithium-ion battery cathode and anode materials. Current services include:
 
 - Elemental composition analysis (ICP-OES)
 - Moisture content determination (Karl Fischer titration)
@@ -33,7 +33,9 @@ The laboratory provides testing and characterization services for lithium-ion ba
 - Specific surface area (BET analysis)
 - Organic impurity analysis (HPLC-UV)
 
-**Laboratory type:** Materials characterization; testing only (no calibration services at this time).
+**Laboratory type:** Materials characterization; testing only.
+
+**Planned scope (future):** Calibration services (timeline: *[to be defined]*).
 
 **Personnel:** 
 - Laboratory Director: *[Name]*
@@ -41,7 +43,11 @@ The laboratory provides testing and characterization services for lithium-ion ba
 - Technical Manager: *[Name]*
 - Technical staff: *[Number]* full-time analysts
 
-## 3. Quality policy and commitment
+## 3. Impartiality and independence
+
+The laboratory maintains independence from any commercial, financial, or other pressures that could compromise the impartiality or objectivity of its testing results. All personnel are instructed that they must not allow personal, financial, or other interests to interfere with their professional judgment. The Quality Manager monitors impartiality through the management review process ([Procedure 19](../management-review/)).
+
+## 4. Quality policy and commitment
 
 The laboratory is committed to:
 
@@ -53,7 +59,7 @@ The laboratory is committed to:
 
 This commitment is documented in detail in [Procedure 02 — Quality Policy](../quality-policy/).
 
-## 4. Quality objectives
+## 5. Quality objectives
 
 The laboratory establishes annual quality objectives aligned with the Quality Policy. These objectives typically address:
 
@@ -63,9 +69,9 @@ The laboratory establishes annual quality objectives aligned with the Quality Po
 - Staff competence (100% of technical staff current on training)
 - Continual improvement (≥2 process improvements per year)
 
-Current objectives are documented in [Appendix 02-App-01 — Quality Objectives](../quality-policy/).
+Current objectives are documented in Appendix 02-App-01 — Quality Objectives (to be created in Procedure 02).
 
-## 5. Organizational structure and roles
+## 6. Organizational structure and roles
 
 | Role | Responsibility | Current person |
 |---|---|---|
@@ -76,7 +82,7 @@ Current objectives are documented in [Appendix 02-App-01 — Quality Objectives]
 
 *For details on all roles and responsibilities, see the specific procedures.*
 
-## 6. QMS structure and procedures
+## 7. QMS structure and procedures
 
 The laboratory's QMS consists of **22 interconnected procedures** (numbered 00–21), organized around practical laboratory processes. Each procedure includes the actual process steps, responsibility assignments, and necessary forms or templates (appendices).
 
@@ -85,7 +91,7 @@ The laboratory's QMS consists of **22 interconnected procedures** (numbered 00�
 | 00 | Document and Record Control | 7.5, 7.11, 8.3, 8.4 | Control of all QMS documents and technical/management records |
 | 01 | Project Plan | — | Implementation roadmap and timeline for QMS establishment |
 | 02 | Quality Policy | 8.2 | Statement of quality commitment and objectives |
-| 03 | Quality Manual | 8.1 | This document; overview of QMS structure |
+| 03 | Quality Manual | 8.1 | Overview of QMS structure and scope |
 | 04 | Competence, Training and Awareness | 6.2 | Ensure all personnel are competent and trained |
 | 05 | Risks and Opportunities | 8.5 | Identify and address risks to QMS effectiveness |
 | 06 | Externally Provided Products and Services | 6.6 | Control and evaluate suppliers and external services |
@@ -105,7 +111,7 @@ The laboratory's QMS consists of **22 interconnected procedures** (numbered 00�
 | 20 | Research Projects Management | — | Manage research activities within QMS framework |
 | 21 | Continuous Improvement | 8.6 | Drive ongoing process and system improvements |
 
-## 7. How the procedures work together
+## 8. How the procedures work together
 
 The 22 procedures form an integrated QMS where:
 
@@ -120,7 +126,7 @@ Each procedure includes:
 - Responsibility assignments (who does it)
 - Appendices with forms, templates, and registers (the tools)
 
-## 8. Document and record control
+## 9. Document and record control
 
 All QMS documents and records are controlled under [Procedure 00 — Document and Record Control](../document-record-control/). This ensures:
 
@@ -130,25 +136,25 @@ All QMS documents and records are controlled under [Procedure 00 — Document an
 - Obsolete documents are removed and archived
 - External documents (standards, regulations) are tracked for updates
 
-## 9. Communication and access
+## 10. Communication and access
 
-- **Internal**: All personnel have access to current QMS documents via *[method: e.g., shared drive, intranet, this website]*.
+- **Internal**: All personnel have access to current QMS documents via *[method]*.
 - **External**: This Quality Manual and key procedures are available to clients and auditors on request.
 - **Confidentiality**: Customer information and sensitive operational data are protected according to *[Procedure 00]*.
 
-## 10. Effectiveness and review
+## 11. Effectiveness and review
 
 The Quality Manager reviews this manual annually (at minimum) to ensure it remains accurate and reflective of current QMS operations. Significant changes (e.g., new testing methods, expanded scope) trigger a revision.
 
 Management reviews the entire QMS at least annually ([Procedure 19 — Management Review](../management-review/)) to assess effectiveness and identify areas for improvement.
 
-## 11. Related documents
+## 12. Related documents
 
 - [Procedure 02 — Quality Policy](../quality-policy/) (Quality Policy and Objectives)
 - [Procedure 00 — Document and Record Control](../document-record-control/) (Document management system)
 - [Procedure 19 — Management Review](../management-review/) (Annual QMS review process)
 
-## 12. Revision history
+## 13. Revision history
 
 | Revision | Date | Description | Approved by |
 |---|---|---|---|
