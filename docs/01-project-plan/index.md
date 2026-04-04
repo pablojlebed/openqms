@@ -124,7 +124,7 @@ In smaller laboratories, one person may fulfil multiple roles (e.g., the Laborat
 
 1. The **Quality Manager** coordinates the development of QMS documentation in the following order:
    1. **Quality Policy** ([Procedure 02](../02-quality-policy/index.md)) — the laboratory's commitment to quality, impartiality, and competence.
-   2. **Quality Manual** ([Procedure 03](../03-quality-manual/index.md)) — the overarching document describing the QMS structure and how it addresses each clause of ISO/IEC 17025.
+   2. **Quality Manual** ([Procedure 03](../03-quality-manual/index.md)) — the overarching document describing the QMS structure and how it addresses each clause of ISO/IEC 17025. *(Note: ISO/IEC 17025:2017 no longer explicitly requires a quality manual, unlike the 2005 edition. However, maintaining one is strongly recommended as it provides a single reference point for assessors and personnel to understand the QMS structure.)*
    3. **Procedures** (this series, 00–21) — detailed instructions for each element of the QMS.
    4. **Appendices** (forms, templates, checklists, and registers) — the tools that support each procedure and generate records when completed.
    5. **Work instructions and SOPs** — step-by-step instructions for specific technical activities (test methods, calibration procedures, equipment operation).
