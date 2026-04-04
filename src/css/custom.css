@@ -66,3 +66,85 @@
   backdrop-filter: blur(12px);
   -webkit-backdrop-filter: blur(12px);
 }
+
+/* ── Sidebar refinements ── */
+
+/* Add breathing room between sidebar and main content */
+.theme-doc-sidebar-container {
+  border-right: none !important;
+  margin-right: 1.5rem;
+}
+
+/* Subtle separator line instead of hard border */
+.theme-doc-sidebar-container::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  width: 1px;
+  background: linear-gradient(
+    to bottom,
+    transparent 0%,
+    var(--ifm-toc-border-color) 15%,
+    var(--ifm-toc-border-color) 85%,
+    transparent 100%
+  );
+}
+
+/* More padding inside the sidebar */
+nav.menu {
+  padding: 1rem 1.25rem 1rem 0.75rem;
+}
+
+/* Sidebar item spacing and styling */
+.menu__link {
+  padding: 0.4rem 0.75rem;
+  border-radius: 0.375rem;
+  font-size: 0.9rem;
+  line-height: 1.4;
+  transition: background-color 0.15s ease, color 0.15s ease;
+}
+
+.menu__link:hover {
+  background-color: rgba(37, 99, 235, 0.06);
+}
+
+[data-theme='dark'] .menu__link:hover {
+  background-color: rgba(96, 165, 250, 0.08);
+}
+
+.menu__link--active:not(.menu__link--sublist) {
+  background-color: rgba(37, 99, 235, 0.1);
+  font-weight: 600;
+}
+
+[data-theme='dark'] .menu__link--active:not(.menu__link--sublist) {
+  background-color: rgba(96, 165, 250, 0.12);
+}
+
+/* Category labels */
+.menu__link--sublist {
+  font-weight: 600;
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  color: var(--ifm-color-emphasis-700);
+  margin-top: 0.5rem;
+}
+
+/* Space between sidebar groups */
+.menu__list .menu__list {
+  padding-left: 0.75rem;
+  margin-top: 0.125rem;
+}
+
+/* Main content area — add left padding for more separation */
+.docMainContainer_node_modules-\@docusaurus-theme-classic-lib-theme-DocPage-Layout-Main-styles-module {
+  padding-left: 1.5rem;
+}
+
+/* More reliable: target the article wrapper */
+[class*='docItemContainer'] {
+  padding-left: 0.5rem;
+}
