@@ -53,6 +53,8 @@ The Quality Manager is responsible for keeping this list current. When a new doc
 | 00-App-02 | List of External Documents | 00 | 00 | *[Date]* | *[Name]* |
 | 00-App-03 | List of Types of Records | 00 | 00 | *[Date]* | *[Name]* |
 | 00-App-04 | Registry of Records for Retention/Central Archive | 00 | 00 | *[Date]* | *[Name]* |
+| 01-App-01 | Gap Analysis Checklist | 01 | 00 | *[Date]* | *[Name]* |
+| 01-App-02 | Implementation Timeline | 01 | 00 | *[Date]* | *[Name]* |
 | 02-App-01 | Quality Objectives | 02 | 00 | *[Date]* | *[Name]* |
 | 04-App-01 | Training Program | 04 | 00 | *[Date]* | *[Name]* |
 | 04-App-02 | Training Record and Performance Monitoring | 04 | 00 | *[Date]* | *[Name]* |
