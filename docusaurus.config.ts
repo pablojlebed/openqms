@@ -163,6 +163,10 @@ const config: Config = {
               label: 'GitHub',
               href: 'https://github.com/pablojlebed/openqms',
             },
+            {
+              label: 'Email Us',
+              href: 'mailto:contact@thelabguy.org',
+            },
           ],
         },
         {
