@@ -21,30 +21,15 @@ The procedures use a **lithium-ion battery cathode and anode materials character
 
 The QMS is organized into 22 procedures (00–21), each covering a specific element of ISO/IEC 17025:
 
-| # | Procedure | Status |
-|---|---|---|
-| 00 | Document and Record Control | Complete |
-| 01 | Project Plan | Complete |
-| 02 | Quality Policy | Complete |
-| 03 | Quality Manual | In progress |
-| 04 | Competence and Training | In progress |
-| 05 | Risks and Opportunities | In progress |
-| 06 | Externally Provided Services | In progress |
-| 07 | Facilities and Environment | In progress |
-| 08 | Equipment and Calibration | In progress |
-| 09 | Customer Service | In progress |
-| 10 | Test and Calibration Methods | In progress |
-| 11 | Quality Assurance | In progress |
-| 12 | Sampling | In progress |
-| 13 | Handling of Items | In progress |
-| 14 | Complaints and Nonconformity | In progress |
-| 15 | Measurement Uncertainty | In progress |
-| 16 | Testing Reports | In progress |
-| 17 | Calibration Certificates | In progress |
-| 18 | Internal Audit | In progress |
-| 19 | Management Review | In progress |
-| 20 | Research Projects | In progress |
-| 21 | Continuous Improvement | In progress |
+| # | Procedure | Status | Appendices |
+|---|---|---|---|
+| 00 | Document and Record Control | Complete | 4 |
+| 01 | Project Plan | Planned | — |
+| 02 | Quality Policy | Planned | — |
+| 03 | Quality Manual | Complete | — |
+| 04 | Competence, Training and Awareness | Complete | 4 |
+| 05 | Addressing Risks and Opportunities | Complete | 1 |
+| 06–21 | Remaining procedures | Planned | — |
 
 ## AI-assisted development
 
