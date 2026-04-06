@@ -28,9 +28,9 @@ This procedure applies to all laboratory activities and management system proces
 
 - ISO/IEC 17025:2017, Clause 8.5 — Actions to address risks and opportunities
 - ISO/IEC 17025:2017, Clause 4.1 — Understanding the organization and its context
-- [Procedure 00 — Document and Record Control](../document-record-control/)
-- [Procedure 03 — Quality Manual](../quality-manual/)
-- [Procedure 04 — Competence, Training and Awareness](../competence-training/)
+- [Procedure 00 — Document and Record Control](../00-document-record-control/index.md)
+- [Procedure 03 — Quality Manual](../03-quality-manual/index.md)
+- [Procedure 04 — Competence, Training and Awareness](../04-competence-training/index.md)
 
 ## 4. Definitions
 
@@ -183,7 +183,7 @@ For each action, document in Appendix 05-App-01:
 Once actions are planned:
 - **Responsible person** implements the action according to the planned timeline
 - Progress is tracked and reported during quality management reviews
-- [Procedure 00 — Document and Record Control](../document-record-control/) applies to any new procedures or documents created to address risks
+- [Procedure 00 — Document and Record Control](../00-document-record-control/index.md) applies to any new procedures or documents created to address risks
 
 #### Monitoring and verification
 
@@ -210,9 +210,9 @@ Document in Appendix 05-App-01:
 
 Risk and opportunity management connects to other QMS procedures:
 
-- **Procedure 04 — Competence, Training and Awareness** — Training needs are identified as opportunities; staff turnover is a risk
-- **Procedure 00 — Document and Record Control** — Procedure updates may be a risk mitigation action
-- **Procedure 03 — Quality Manual** — Strategic opportunities inform quality objectives
+- **[Procedure 04 — Competence, Training and Awareness](../04-competence-training/index.md)** — Training needs are identified as opportunities; staff turnover is a risk
+- **[Procedure 00 — Document and Record Control](../00-document-record-control/index.md)** — Procedure updates may be a risk mitigation action
+- **[Procedure 03 — Quality Manual](../03-quality-manual/index.md)** — Strategic opportunities inform quality objectives
 
 ## 8. Note on formality
 
@@ -230,9 +230,9 @@ The important outcome is that risks are identified, assessed, and addressed—no
 | Document | Reference |
 |---|---|
 | Appendix 1 — Registry of Key Risks and Opportunities | [05-App-01](./appendix-01-risks-opportunities-registry) |
-| Procedure 00 — Document and Record Control | [Procedure 00](../document-record-control/) |
-| Procedure 03 — Quality Manual | [Procedure 03](../quality-manual/) |
-| Procedure 04 — Competence, Training and Awareness | [Procedure 04](../competence-training/) |
+| Procedure 00 — Document and Record Control | [Procedure 00](../00-document-record-control/index.md) |
+| Procedure 03 — Quality Manual | [Procedure 03](../03-quality-manual/index.md) |
+| Procedure 04 — Competence, Training and Awareness | [Procedure 04](../04-competence-training/index.md) |
 
 ## 10. Revision history
 

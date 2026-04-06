@@ -28,6 +28,7 @@ The Quality Manager is responsible for keeping this list current. When a new doc
 | 03 | Quality Manual | 00 | *[Date]* | *[Name]* | All personnel |
 | 04 | Competence, Training and Awareness Procedure | 00 | *[Date]* | *[Name]* | All personnel |
 | 05 | Addressing Risks and Opportunities Procedure | 00 | *[Date]* | *[Name]* | All personnel |
+| 05 | Addressing Risks and Opportunities Procedure | 00 | *[Date]* | *[Name]* | All personnel |
 | 06 | Externally Provided Products and Services Procedure | 00 | *[Date]* | *[Name]* | All personnel |
 | 07 | Facilities and Environmental Conditions Procedure | 00 | *[Date]* | *[Name]* | All personnel |
 | 08 | Equipment Maintenance, Calibration and Verification Procedure | 00 | *[Date]* | *[Name]* | All personnel |
