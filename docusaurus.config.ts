@@ -101,8 +101,8 @@ const config: Config = {
   ],
 
   themeConfig: {
-    // Replace with your project's social card
-    image: 'img/docusaurus-social-card.jpg',
+    // OpenQMS branded social card
+    image: 'img/social-card.svg',
     colorMode: {
       respectPrefersColorScheme: true,
     },
