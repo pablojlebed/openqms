@@ -114,10 +114,16 @@ const config: Config = {
       },
       items: [
         {
+          type: 'doc',
+          docId: 'understanding-the-system',
+          position: 'left',
+          label: 'Understanding the System',
+        },
+        {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
           position: 'left',
-          label: 'Documentation',
+          label: 'Procedures',
         },
         {to: '/blog', label: 'Updates', position: 'left'},
         {
@@ -133,6 +139,10 @@ const config: Config = {
         {
           title: 'Learn',
           items: [
+            {
+              label: 'Understanding the System',
+              to: '/docs/understanding-the-system',
+            },
             {
               label: 'Introduction',
               to: '/docs/intro',
