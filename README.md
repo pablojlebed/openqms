@@ -24,8 +24,8 @@ The QMS is organized into 22 procedures (00–21), each covering a specific elem
 | # | Procedure | Status | Appendices |
 |---|---|---|---|
 | 00 | Document and Record Control | Complete | 4 |
-| 01 | Project Plan | Planned | — |
-| 02 | Quality Policy | Planned | — |
+| 01 | Project Plan | Complete | 2 |
+| 02 | Quality Policy | Complete | 1 |
 | 03 | Quality Manual | Complete | — |
 | 04 | Competence, Training and Awareness | Complete | 4 |
 | 05 | Addressing Risks and Opportunities | Complete | 1 |
