@@ -39,6 +39,7 @@ export default function Home(): ReactNode {
       <Head>
         <meta name="twitter:title" content="OpenQMS 17025" />
         <meta name="twitter:description" content="OpenQMS 17025 is a free, open-source Quality Management System template and guide for testing and calibration laboratories seeking ISO/IEC 17025 accreditation." />
+        <meta name="twitter:image" content="https://openqms.thelabguy.org/img/social-card.jpg" />
       </Head>
       <HomepageHeader />
       <main>
