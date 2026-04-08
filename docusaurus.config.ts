@@ -102,7 +102,7 @@ const config: Config = {
 
   themeConfig: {
     // OpenQMS branded social card
-    image: 'img/social-card.svg',
+    image: 'img/social-card.jpg',
     colorMode: {
       respectPrefersColorScheme: true,
     },

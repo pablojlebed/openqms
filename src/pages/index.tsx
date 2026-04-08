@@ -5,6 +5,7 @@ import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
 import Heading from '@theme/Heading';
+import Head from '@docusaurus/Head';
 
 import styles from './index.module.css';
 
@@ -33,8 +34,12 @@ export default function Home(): ReactNode {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title="Open Quality Management System for ISO/IEC 17025 Laboratories"
+      title="Open QMS for ISO 17025 Labs"
       description="OpenQMS 17025 is a free, open-source Quality Management System template and guide for testing and calibration laboratories seeking ISO/IEC 17025 accreditation.">
+      <Head>
+        <meta name="twitter:title" content="OpenQMS 17025" />
+        <meta name="twitter:description" content="OpenQMS 17025 is a free, open-source Quality Management System template and guide for testing and calibration laboratories seeking ISO/IEC 17025 accreditation." />
+      </Head>
       <HomepageHeader />
       <main>
         <HomepageFeatures />
