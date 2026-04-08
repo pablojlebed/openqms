@@ -42,6 +42,10 @@ Appendices are **controlled documents** — they get revised when the template c
 
 This process-based approach makes it much easier to implement and manage on a day-to-day basis while still ensuring complete compliance with the underlying ISO/IEC 17025:2017 clauses.
 
+:::tip Read this first
+Before diving into individual procedures, we recommend reading **[Understanding the System](./understanding-the-system)**. It explains *why* the QMS exists, how ISO 17025 thinks in terms of failure modes and defences, and how the procedures connect to each other. The map it provides makes everything that follows easier to navigate.
+:::
+
 ### A note on roles
 
 Throughout these procedures you will see references to the **Laboratory Director**, **Quality Manager**, **Technical Manager**, and other roles. These are **functions**, not necessarily separate people. In smaller laboratories, one person may fulfil multiple roles. What matters is that every responsibility is explicitly assigned and that impartiality is maintained — for example, the same person should not both author and approve the same document.
