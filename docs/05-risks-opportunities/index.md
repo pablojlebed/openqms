@@ -239,3 +239,49 @@ The important outcome is that risks are identified, assessed, and addressed—no
 | Revision | Date | Description | Approved by |
 |---|---|---|---|
 | 00 | *[Date]* | Initial issue | *[Name]* |
+
+---
+
+<div className="insight">
+
+## Why this section exists
+
+Section 05 answers a question that every other section implicitly depends on: *what could go wrong, and have we thought about it before it happens?*
+
+Most laboratory failures are not unforeseeable. Instruments age and drift. Key analysts leave and take method knowledge with them. Suppliers discontinue reference materials. Accreditation requirements change. These are not surprises — they are predictable events that a laboratory either anticipates or reacts to. Section 05 is the mechanism that forces anticipation.
+
+### Risk assessment is not a document — it is a conversation
+
+The most common mistake laboratories make with section 05 is treating it as a compliance exercise. A risk register is created, reviewed at the annual management meeting, filed, and forgotten until the next audit. This produces a document that looks correct and does almost nothing.
+
+A risk register that is actually working looks different. It is updated when an instrument starts behaving unexpectedly. It is consulted when a new method is being introduced. It is reviewed when a key analyst gives notice. It feeds directly into decisions about training, equipment maintenance schedules, and supplier qualification. The register is the record of a conversation the laboratory is having with itself about its own vulnerability — and that conversation needs to be continuous, not annual.
+
+### The distinction between risk and uncertainty
+
+Risk in the context of section 05 is not the same as measurement uncertainty in section 15. Measurement uncertainty quantifies the variability inherent in a result. Risk here is about events — things that might happen and would affect the laboratory's ability to produce valid results. A power outage is a risk. A key supplier going out of business is a risk. An analyst performing a method they were never formally trained on is a risk. These are distinct from the statistical variability that section 15 addresses.
+
+Keeping this distinction clear matters because the responses are different. Measurement uncertainty is reduced through better methods, more calibration points, and controlled conditions. Operational risk is addressed through contingency plans, cross-training, backup suppliers, and preventive maintenance.
+
+### The opportunity side is genuinely important
+
+ISO/IEC 17025 is unusual among quality standards in explicitly requiring laboratories to consider opportunities, not just risks. This is often treated as an afterthought — a box to tick after the risk table is complete. It should not be.
+
+An opportunity in this context is a potential improvement the laboratory could pursue: a new technique that would extend its scope, a training investment that would reduce dependency on a single analyst, a software tool that would eliminate manual transcription errors. Opportunities that are identified and evaluated — even if ultimately declined — represent the laboratory actively managing its own development rather than simply reacting to external pressure.
+
+### The connection to section 14 runs both ways
+
+Section 05 and section 14 are two sides of the same coin. Section 05 identifies what could go wrong before it does. Section 14 captures what actually went wrong and learns from it.
+
+The connection runs in both directions. Section 05 informs section 14 — a well-maintained risk register means that when something goes wrong, the investigation has context: was this risk already identified? Were the controls in place? Did they fail, or were they never implemented?
+
+But section 14 also feeds back into section 05 — and this is the direction most laboratories miss. Every nonconformity is simultaneously a risk that materialised and an opportunity to improve. The event itself is the risk side. The investigation and corrective action that follow are the opportunity side — the laboratory now knows something about its own vulnerability that it didn't know before.
+
+A few concrete examples: a missed instrument calibration reveals that the scheduling system is unreliable — opportunity to implement a better oversight mechanism. An analyst error on a complex matrix reveals a gap in the training pathway — opportunity to add a competence check that didn't exist before. A supplier delivers a reference material outside specification — opportunity to qualify a backup supplier.
+
+In each case the nonconformity is not just a problem to be closed. It is information about a systemic weakness. Section 05 is where that information becomes a managed improvement rather than a closed ticket.
+
+The most useful risk registers are not written from scratch at the start of a laboratory's life. They are built incrementally, fed by real experience — including everything section 14 has ever captured. A laboratory with five years of thorough nonconformity records has a rich source of material for a genuinely grounded section 05.
+
+If your section 14 keeps seeing the same type of nonconformity, your section 05 has a gap.
+
+</div>
