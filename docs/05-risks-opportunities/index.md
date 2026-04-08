@@ -274,7 +274,7 @@ Section 05 and section 14 are two sides of the same coin. Section 05 identifies 
 
 The connection runs in both directions. Section 05 informs section 14 — a well-maintained risk register means that when something goes wrong, the investigation has context: was this risk already identified? Were the controls in place? Did they fail, or were they never implemented?
 
-But section 14 also feeds back into section 05 — and this is the direction most laboratories miss. Every nonconformity is simultaneously a risk that materialised and an opportunity to improve. The event itself is the risk side. The investigation and corrective action that follow are the opportunity side — the laboratory now knows something about its own vulnerability that it didn't know before.
+But section 14 also feeds back into section 05 — and this is the direction most laboratories miss. Every nonconformity is simultaneously a risk that materialized and an opportunity to improve. The event itself is the risk side. The investigation and corrective action that follow are the opportunity side — the laboratory now knows something about its own vulnerability that it didn't know before.
 
 A few concrete examples: a missed instrument calibration reveals that the scheduling system is unreliable — opportunity to implement a better oversight mechanism. An analyst error on a complex matrix reveals a gap in the training pathway — opportunity to add a competence check that didn't exist before. A supplier delivers a reference material outside specification — opportunity to qualify a backup supplier.
 

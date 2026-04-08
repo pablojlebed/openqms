@@ -269,25 +269,25 @@ Section 04 answers a question that every other section in the QMS silently assum
 
 Every procedure in this system assumes a competent operator. The SOP for equipment maintenance assumes the person reading it understands the instrument. The method validation procedure assumes the analyst can evaluate the data. The uncertainty budget assumes the person completing it understands measurement statistics. Section 04 is what makes those assumptions defensible.
 
-### The difference between training and authorisation
+### The difference between training and authorization
 
 These are not the same thing, and confusing them is one of the most common mistakes in competence management.
 
-A training record documents that a person participated in a learning activity. It says: *this happened*. Authorisation says something different: *this person is currently permitted to perform this task independently*. Someone can have a training record for a method they are no longer authorised to use — because the method changed significantly, because they had a long gap in practice, or because a competence concern was identified. The training record is history. The authorisation register is the current operational state.
+A training record documents that a person participated in a learning activity. It says: *this happened*. Authorisation says something different: *this person is currently permitted to perform this task independently*. Someone can have a training record for a method they are no longer authorized to use — because the method changed significantly, because they had a long gap in practice, or because a competence concern was identified. The training record is history. The authorization register is the current operational state.
 
-Appendix 04-App-04 — the Competence Approval and Authorization Record — is the document that carries that operational weight. It is the single source of truth that an auditor will go to when they ask: *who is authorised to sign off results for this method, and what is the basis for that authorisation?*
+Appendix 04-App-04 — the Competence Approval and Authorization Record — is the document that carries that operational weight. It is the single source of truth that an auditor will go to when they ask: *who is authorized to sign off results for this method, and what is the basis for that authorization?*
 
-### Why withdrawn authorisations must be preserved
+### Why withdrawn authorizations must be preserved
 
-Most competence registers only show current authorisations. This is a mistake. When an auditor asks why a person who was previously authorised is no longer on the list — or when a historical result needs to be defended and the question arises of who was authorised at that time — the register must have the answer.
+Most competence registers only show current authorizations. This is a mistake. When an auditor asks why a person who was previously authorized is no longer on the list — or when a historical result needs to be defended and the question arises of who was authorized at that time — the register must have the answer.
 
-Never delete a withdrawn authorisation. Mark it as withdrawn, record the date and reason, and retain it. The history of who was authorised and when is as important to traceability as the current state.
+Never delete a withdrawn authorization. Mark it as withdrawn, record the date and reason, and retain it. The history of who was authorized and when is as important to traceability as the current state.
 
 ### The upstream and downstream connections
 
 Section 04 does not operate alone. It is fed by every training pathway associated with a specific task — SOPs, risk assessments, practical assessments — and it feeds forward into every section that depends on qualified personnel to function.
 
-When something goes wrong and section 14 investigates a nonconformity, one of the first questions is whether the person performing the task was authorised to do so. If section 04 is complete, that question has a clear answer. If it is not, the investigation stalls — and the nonconformity potentially becomes a systemic finding rather than an isolated one.
+When something goes wrong and section 14 investigates a nonconformity, one of the first questions is whether the person performing the task was authorized to do so. If section 04 is complete, that question has a clear answer. If it is not, the investigation stalls — and the nonconformity potentially becomes a systemic finding rather than an isolated one.
 
 Section 04 is not overhead. It is the foundation that makes every other section defensible.
 
