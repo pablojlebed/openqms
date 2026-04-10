@@ -1,0 +1,34 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.00 – Document and Record Control": {
+    "message": "00 – Document and Record Control",
+    "description": "The label for category '00 – Document and Record Control' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.01 – Project Plan": {
+    "message": "01 – Project Plan",
+    "description": "The label for category '01 – Project Plan' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.02 – Quality Policy": {
+    "message": "02 – Quality Policy",
+    "description": "The label for category '02 – Quality Policy' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.04 – Competence, Training and Awareness": {
+    "message": "04 – Competence, Training and Awareness",
+    "description": "The label for category '04 – Competence, Training and Awareness' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.05 – Addressing Risks and Opportunities": {
+    "message": "05 – Addressing Risks and Opportunities",
+    "description": "The label for category '05 – Addressing Risks and Opportunities' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.06 – Externally Provided Products and Services": {
+    "message": "06 – Externally Provided Products and Services",
+    "description": "The label for category '06 – Externally Provided Products and Services' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.07 – Facilities and Environmental Conditions": {
+    "message": "07 – Facilities and Environmental Conditions",
+    "description": "The label for category '07 – Facilities and Environmental Conditions' in sidebar 'tutorialSidebar'"
+  }
+}

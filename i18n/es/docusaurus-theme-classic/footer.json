@@ -1,0 +1,58 @@
+{
+  "link.title.Learn": {
+    "message": "Aprender",
+    "description": "The title of the footer links column with title=Learn in the footer"
+  },
+  "link.title.Participate": {
+    "message": "Participar",
+    "description": "The title of the footer links column with title=Participate in the footer"
+  },
+  "link.title.Find Us": {
+    "message": "Encontranos",
+    "description": "The title of the footer links column with title=Find Us in the footer"
+  },
+  "link.title.Legal": {
+    "message": "Legal",
+    "description": "The title of the footer links column with title=Legal in the footer"
+  },
+  "link.item.label.Understanding the System": {
+    "message": "Entendiendo el Sistema",
+    "description": "The label of footer link with label=Understanding the System linking to /docs/understanding-the-system"
+  },
+  "link.item.label.Introduction": {
+    "message": "Introducción",
+    "description": "The label of footer link with label=Introduction linking to /docs/intro"
+  },
+  "link.item.label.Procedures": {
+    "message": "Procedimientos",
+    "description": "The label of footer link with label=Procedures linking to /docs/document-record-control/"
+  },
+  "link.item.label.Contributing": {
+    "message": "Contribuir",
+    "description": "The label of footer link with label=Contributing linking to https://github.com/pablojlebed/openqms/issues"
+  },
+  "link.item.label.Updates": {
+    "message": "Novedades",
+    "description": "The label of footer link with label=Updates linking to /blog"
+  },
+  "link.item.label.GitHub": {
+    "message": "GitHub",
+    "description": "The label of footer link with label=GitHub linking to https://github.com/pablojlebed/openqms"
+  },
+  "link.item.label.Email Us": {
+    "message": "Contacto",
+    "description": "The label of footer link with label=Email Us linking to mailto:contact@thelabguy.org"
+  },
+  "link.item.label.License (CC BY-NC 4.0)": {
+    "message": "Licencia (CC BY-NC 4.0)",
+    "description": "The label of footer link with label=License (CC BY-NC 4.0) linking to https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "link.item.label.AI Disclosure": {
+    "message": "Declaración sobre IA",
+    "description": "The label of footer link with label=AI Disclosure linking to /blog/ai-assisted-development"
+  },
+  "copyright": {
+    "message": "Copyright © 2026 Contribuidores de OpenQMS. Construido con Docusaurus. Licenciado bajo CC BY-NC 4.0.",
+    "description": "The footer copyright"
+  }
+}
