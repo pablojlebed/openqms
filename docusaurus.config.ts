@@ -31,7 +31,11 @@ const config: Config = {
   // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
-    locales: ['en'],
+    locales: ['en', 'es'],
+    localeConfigs: {
+      en: { label: 'English', htmlLang: 'en' },
+      es: { label: 'Español', htmlLang: 'es' },
+    },
   },
 
   // SEO metadata injected into every page
@@ -126,6 +130,10 @@ const config: Config = {
           label: 'Procedures',
         },
         {to: '/blog', label: 'Updates', position: 'left'},
+        {
+          type: 'localeDropdown',
+          position: 'right',
+        },
         {
           href: 'https://github.com/pablojlebed/openqms',
           label: 'GitHub',
