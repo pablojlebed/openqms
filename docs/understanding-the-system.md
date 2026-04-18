@@ -103,7 +103,7 @@ OpenQMS organises its 22 procedures (00–21) into five functional groups. These
 
 ### QMS foundation (Procedures 00–03)
 
-These procedures establish the infrastructure of the quality management system itself — how documents and records are controlled, how the implementation project is planned, what the laboratory commits to in its quality policy, and how the QMS is described in the quality manual. Everything else depends on these being in place first.
+These procedures establish the infrastructure of the quality management system itself — how documents and records are controlled, how the implementation project is planned, what the laboratory commits to in its quality policy, and how the QMS is described in the Quality Manual. Everything else depends on these being in place first.
 
 | Procedure | Title | ISO 17025 clauses |
 |---|---|---|

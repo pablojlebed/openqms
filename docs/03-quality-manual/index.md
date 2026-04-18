@@ -1,6 +1,6 @@
 ---
 title: "03 – Quality Manual"
-description: The laboratory quality manual describing the QMS structure and how it meets ISO/IEC 17025 requirements.
+description: The laboratory Quality Manual describing the QMS structure and how it meets ISO/IEC 17025 requirements.
 ---
 
 # Quality Manual
