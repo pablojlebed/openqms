@@ -60,6 +60,11 @@ const config: Config = {
       async: true,
       'data-host': 'https://tracker.thelabguy.org',
     },
+    {
+      src: 'https://cloud.umami.is/script.js',
+      defer: true,
+      'data-website-id': '579548db-3a64-4fdb-98ea-3c373e4d3fb1',
+    },
   ],
 
   themes: [
