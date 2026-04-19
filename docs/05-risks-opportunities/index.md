@@ -285,3 +285,51 @@ The most useful risk registers are not written from scratch at the start of a la
 If your section 14 keeps seeing the same type of nonconformity, your section 05 has a gap.
 
 </div>
+
+<div className="nonconformity-example">
+
+## Common nonconformities
+
+Clause 8.5 is one of the areas where auditors see the widest range of compliance maturity. Some laboratories treat risk management as a living practice; others produce a risk register for the assessment and never look at it again. The examples below reflect what auditors actually find — and why each finding matters.
+
+### <span className="nc-tag nc-major">Major</span> No evidence that risks and opportunities have been considered
+
+*"When asked how the laboratory identifies and addresses risks and opportunities, the Quality Manager stated that the topic is discussed informally at team meetings. No documented risk register, meeting minutes, or other objective evidence of risk consideration was available."*
+
+Clause 8.5 does not prescribe a methodology — the note in Section 8 of this procedure makes that clear. But it does require *objective evidence* that risks and opportunities are being considered. Informal conversations, no matter how thoughtful, leave no trail. An auditor who cannot see evidence that the requirement has been addressed has no choice but to raise a major nonconformity. A simple register with dates, names, and decisions is sufficient — the formality is less important than the evidence.
+
+### <span className="nc-tag nc-major">Major</span> Risk register exists but has never been reviewed or updated
+
+*"The laboratory presented a risk register dated January 2023. All entries were from the initial creation. No evidence of review, update, or effectiveness evaluation was available. Two risks listed as 'pending action' had target dates that had passed 18 months earlier."*
+
+A static risk register is a compliance artifact, not a management tool. It tells the auditor that the laboratory created the document to satisfy the requirement and then stopped engaging with it. Overdue actions are particularly damaging because they show that the laboratory set its own targets and then ignored them. Section 6.4 requires monitoring and effectiveness checks — if the register is never revisited, those checks cannot have happened.
+
+### <span className="nc-tag nc-minor">Minor</span> Risks identified but no actions planned for high-priority items
+
+*"The risk register included a risk rated as 'High priority' — dependency on a single analyst for ICP-OES testing. The risk was correctly identified and assessed, but the 'Actions' column was blank. No mitigation or contingency plan had been documented."*
+
+Identification without action is incomplete. The standard requires that risks be *addressed*, not merely acknowledged. For a high-priority risk like single-person dependency, the expected response would be a cross-training plan, a timeline, and a responsible person. The risk entry itself is evidence of awareness; the blank action column is evidence that the awareness led nowhere.
+
+### <span className="nc-tag nc-minor">Minor</span> Opportunities not addressed
+
+*"The risk register contained 14 risk entries and no opportunities. When asked, the Technical Manager acknowledged that the laboratory had recently discussed expanding its scope to include XRF analysis but had not documented this as an opportunity or evaluated its feasibility."*
+
+Clause 8.5 explicitly covers both risks *and* opportunities. Laboratories routinely focus on the risk side and ignore the opportunity side, which is understandable but non-compliant. Opportunities do not need to be pursued — they can be evaluated and declined — but they must be considered and documented. The XRF expansion discussion was exactly the kind of opportunity the standard envisions; the gap is that it was not captured in the system.
+
+### <span className="nc-tag nc-major">Major</span> Recurring nonconformities not feeding back into risk assessment
+
+*"Internal audit records from the previous two years showed three separate findings related to overdue equipment calibrations. The risk register did not include calibration scheduling reliability as a risk, and no systemic action had been taken to address the recurring pattern."*
+
+This is the broken feedback loop between Sections 05 and 14 that the insight above describes. A single missed calibration is a nonconformity. Three missed calibrations over two years is a pattern — and a pattern is a risk that has been demonstrated, not hypothetical. The laboratory's own data was telling it that its scheduling system was unreliable, but the risk register did not reflect this. Auditors look specifically for this disconnect because it reveals whether the management system is actually learning from its own findings.
+
+### <span className="nc-tag nc-minor">Minor</span> No effectiveness evaluation of completed risk actions
+
+*"The risk register showed that cross-training for Karl Fischer titration had been completed six months earlier, with two additional analysts trained. However, no effectiveness evaluation had been performed — neither analyst had been assessed for competence on the method, and no check had been made to confirm that the single-person dependency risk had actually been reduced."*
+
+Completing an action is not the same as verifying that it worked. Cross-training was the planned mitigation, but the question is: did it actually produce competent backup analysts? Without the effectiveness check (Section 6.4), the risk entry shows a completed action but an unverified outcome. The link to Procedure 04 matters here — competence authorization (Appendix 04-App-04) is the evidence that the training actually reduced the risk.
+
+### How to use these examples
+
+Risk management nonconformities tend to fall into two categories: *absence* (no evidence the requirement is being met at all) and *incompleteness* (the process exists but key steps are missing). The first category produces major findings; the second produces minors that can escalate if the pattern is widespread. When reviewing your own risk register, check not just that entries exist, but that each one has a complete lifecycle: identified → assessed → action planned → action implemented → effectiveness verified. Entries that stall at any stage are gaps an auditor will find.
+
+</div>

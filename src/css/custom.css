@@ -200,3 +200,87 @@ nav.menu {
 [data-theme='dark'] .insight h3 {
   color: var(--ifm-color-primary-lighter);
 }
+
+/* Nonconformity-example block — for "Common nonconformities"
+   commentary that helps newcomers understand what auditors flag. */
+.nonconformity-example {
+  margin: 3rem 0 1rem;
+  padding: 1.75rem 2rem 1.25rem;
+  background: linear-gradient(135deg, rgba(217, 119, 6, 0.04), rgba(245, 158, 11, 0.06));
+  border-left: 4px solid #d97706;
+  border-radius: 0 8px 8px 0;
+  position: relative;
+}
+
+.nonconformity-example::before {
+  content: 'Nonconformity examples';
+  position: absolute;
+  top: -0.65rem;
+  left: 1.5rem;
+  background: #d97706;
+  color: white;
+  font-family: var(--ifm-heading-font-family);
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  padding: 0.25rem 0.75rem;
+  border-radius: 4px;
+}
+
+.nonconformity-example > h2:first-child,
+.nonconformity-example > h2:first-of-type {
+  margin-top: 0.25rem;
+  color: #92400e;
+}
+
+.nonconformity-example h3 {
+  color: #b45309;
+  margin-top: 1.75rem;
+}
+
+.nonconformity-example .nc-tag {
+  display: inline-block;
+  font-size: 0.65rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  padding: 0.15rem 0.5rem;
+  border-radius: 3px;
+  margin-right: 0.5rem;
+  vertical-align: middle;
+}
+
+.nonconformity-example .nc-major {
+  background: rgba(220, 38, 38, 0.12);
+  color: #991b1b;
+}
+
+.nonconformity-example .nc-minor {
+  background: rgba(217, 119, 6, 0.12);
+  color: #92400e;
+}
+
+[data-theme='dark'] .nonconformity-example {
+  background: linear-gradient(135deg, rgba(251, 191, 36, 0.06), rgba(245, 158, 11, 0.08));
+  border-left-color: #fbbf24;
+}
+
+[data-theme='dark'] .nonconformity-example > h2:first-child,
+[data-theme='dark'] .nonconformity-example > h2:first-of-type {
+  color: #fde68a;
+}
+
+[data-theme='dark'] .nonconformity-example h3 {
+  color: #fcd34d;
+}
+
+[data-theme='dark'] .nonconformity-example .nc-major {
+  background: rgba(248, 113, 113, 0.15);
+  color: #fca5a5;
+}
+
+[data-theme='dark'] .nonconformity-example .nc-minor {
+  background: rgba(251, 191, 36, 0.15);
+  color: #fde68a;
+}

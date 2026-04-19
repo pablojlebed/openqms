@@ -343,3 +343,51 @@ The risk is not catastrophic failure. It is gradual drift: a room that runs at 2
 Awareness of this pattern — and the discipline to check for it in monitoring data trends — is more valuable than tighter HVAC specifications. The goal is not a perfectly stable environment. The goal is knowing what your environment actually is, and understanding whether it matters.
 
 </div>
+
+<div className="nonconformity-example">
+
+## Common nonconformities
+
+The examples below reflect the kinds of findings auditors raise against Clause 6.3. Environmental conditions are one of the most frequently cited areas in ISO 17025 assessments — partly because the evidence is objective (the data logger either shows compliance or it does not) and partly because laboratories often underestimate how much the environment affects their results.
+
+### <span className="nc-tag nc-major">Major</span> No defined acceptable ranges for critical environmental parameters
+
+*"The ICP-OES instrument room had a temperature data logger installed, but the laboratory had not defined acceptable temperature or humidity ranges for that area. When asked what constituted an excursion, the Technical Manager stated the limits were 'roughly 20 plus or minus a few degrees' but could not point to a documented specification."*
+
+Monitoring without defined limits is not monitoring — it is data collection with no decision criteria. An auditor needs to see documented acceptable ranges (as in Section 7.2 of this procedure) that are traceable to equipment specifications, method requirements, or validated operating conditions. Without them, the laboratory cannot determine whether an excursion has occurred, and therefore cannot assess the impact on results.
+
+### <span className="nc-tag nc-major">Major</span> Environmental excursions with no impact assessment
+
+*"Data logger records for the balance room showed a humidity excursion to 72% RH over a weekend in August. The excursion was visible in the downloaded data, but no assessment of its impact on results produced the following Monday had been documented. Analysts had resumed weighing hygroscopic cathode material samples without verifying that conditions had returned to the acceptable range."*
+
+This is the gap between recording and acting. The data logger did its job — the laboratory did not do theirs. Section 9.2 requires that every excursion triggers an impact assessment: which results might be affected, how significant was the deviation, and what action is needed. When hygroscopic battery materials are weighed in high-humidity conditions, mass readings can be biased high, and the affected results may need to be re-analyzed.
+
+### <span className="nc-tag nc-minor">Minor</span> Environmental monitoring records not reviewed at the defined frequency
+
+*"The procedure specified daily review of continuous data logger records for the HPLC and ICP-OES rooms. Interviews with analysts revealed that data was typically downloaded and reviewed monthly. No excursions had occurred during the period examined, but the laboratory could not have known this in a timely manner."*
+
+No harm was done in this case — but the system was not functioning as designed. A one-month gap between reviews means any excursion during that window would go undetected until it was too late to take corrective action. Auditors treat this as a minor nonconformity if no results were affected, but it signals a weakness in the monitoring system that could become major if an excursion does occur.
+
+### <span className="nc-tag nc-minor">Minor</span> Monitoring equipment not included in calibration schedule
+
+*"Two digital temperature/humidity data loggers used in the instrument rooms were not listed in the laboratory's calibration register and had no record of calibration since their purchase three years earlier."*
+
+If the monitoring equipment is not calibrated, the data it produces is unreliable — and every environmental record based on that data is questionable. This is easy to overlook because data loggers feel like auxiliary equipment rather than measurement instruments, but they are measurement instruments. They must follow the same calibration regime defined in Procedure 08.
+
+### <span className="nc-tag nc-major">Major</span> Incompatible activities not separated
+
+*"Sample grinding of NMC cathode powder was performed on a bench in the same room as open-vessel acid digestions for ICP-OES trace analysis. The laboratory had not assessed the cross-contamination risk, and no physical separation or airflow controls were in place."*
+
+This is a fundamental layout problem. Cathode materials contain the same elements (Ni, Co, Mn) that the ICP-OES measures at trace levels in other sample types. Powder generated during grinding can remain airborne and settle into open digestion vessels, introducing a positive bias that is invisible in the data because it looks like a real signal. Blank results may eventually reveal the problem, but by that point results have been reported. Physical separation of particulate-generating activities from trace analytical work is not optional — it is a design requirement for any laboratory doing both.
+
+### <span className="nc-tag nc-minor">Minor</span> No documented assessment of facility changes
+
+*"A new muffle furnace had been installed in the sample preparation area two months prior. The furnace generated significant heat, raising ambient temperature by approximately 4 °C when in use. No risk assessment or impact evaluation had been performed before installation."*
+
+Section 11.1 requires that facility changes which could affect environmental conditions be assessed before they happen. A heat-generating instrument changes the thermal profile of the room and may push adjacent areas out of their acceptable temperature range. The fix may be simple — relocating the furnace, improving ventilation — but the assessment must be documented regardless.
+
+### How to use these examples
+
+Environmental nonconformities follow a pattern: the laboratory has some controls in place, but the chain from *monitoring → review → decision → action* is broken at one or more points. When assessing your own laboratory, trace that chain for each controlled area. Ask: do we have defined limits? Do we monitor against them? Do we review the data in time to act? Do we assess the impact when something goes wrong? If any link is missing, you have a gap that an auditor will find.
+
+</div>

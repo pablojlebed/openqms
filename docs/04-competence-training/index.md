@@ -292,3 +292,45 @@ When something goes wrong and section 14 investigates a nonconformity, one of th
 Section 04 is not overhead. It is the foundation that makes every other section defensible.
 
 </div>
+
+<div className="nonconformity-example">
+
+## Common nonconformities
+
+The examples below illustrate the kinds of findings that auditors raise against Clause 6.2. They are written as an auditor might phrase them in a report, followed by a short explanation of why each one matters. Use them as a checklist: if any of these could apply to your laboratory, the gap is worth closing before an assessment.
+
+### <span className="nc-tag nc-major">Major</span> Personnel performing tests without documented authorization
+
+*"The laboratory could not demonstrate that Analyst B had been formally authorized to perform ICP-OES analysis independently. Training records showed attendance at a manufacturer course, but no competence assessment or authorization record existed."*
+
+This is one of the most common major findings. The distinction matters: attending a training course is not the same as being authorized to work independently. Without Appendix 04-App-04 signed and current, any results produced by that person are technically unsupported. An auditor may question every report that analyst has signed.
+
+### <span className="nc-tag nc-major">Major</span> No competence criteria defined for key positions
+
+*"The laboratory had no documented competence requirements for the role of Technical Manager. When asked what qualifications and experience were required for the position, staff could not point to any written criteria."*
+
+If you cannot show what competence *means* for a given role, you cannot demonstrate that the person filling it is competent. Section 6.1 of this procedure requires that competence criteria be defined for each position. Without them, the entire competence framework has no reference point.
+
+### <span className="nc-tag nc-minor">Minor</span> Training records incomplete or not up to date
+
+*"Training records for three analysts were missing entries for the 2024 annual QMS awareness session. The Quality Manager confirmed the training had taken place but acknowledged that the attendance records had not been filed."*
+
+The training happened, but the evidence does not exist — and in a QMS, what is not recorded did not happen. This is typically a minor nonconformity because the underlying competence may be intact, but it erodes confidence in the record-keeping system. Repeated findings of this kind can escalate to a major.
+
+### <span className="nc-tag nc-minor">Minor</span> No refresher training after extended gap in practice
+
+*"Analyst C had not performed Karl Fischer titration for 14 months. No refresher training or re-evaluation of competence was documented before the analyst resumed testing."*
+
+Section 7.4 of this procedure requires a competence refresher when a person has not performed a critical method for more than six months. The risk is not hypothetical — skills degrade with disuse, and instruments may have been updated or recalibrated in the interim. A brief supervised session and documented sign-off are usually sufficient to close this gap.
+
+### <span className="nc-tag nc-major">Major</span> Competence concerns identified but not acted upon
+
+*"Internal audit records from March 2024 noted that an analyst had repeatedly failed to apply the correct dilution factor during sample preparation. No corrective action, retraining, or supervision adjustment was documented in response."*
+
+This is a systemic failure: the laboratory's own monitoring identified a problem, but the competence management system did not respond. It calls into question whether the feedback loop between Sections 04, 14 (nonconformities), and 18 (internal audit) is functioning. Auditors treat unaddressed competence concerns as evidence that the QMS is not effective — not merely that a single person needs retraining.
+
+### How to use these examples
+
+These are not exhaustive. Every laboratory will have its own risk profile based on the methods it performs, the turnover of its staff, and the maturity of its QMS. The pattern to watch for is the gap between *what the procedure says should happen* and *what the records show actually happened*. Auditors follow the evidence trail: procedure → record → reality. A nonconformity exists wherever that chain breaks.
+
+</div>

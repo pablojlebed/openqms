@@ -301,3 +301,51 @@ Subcontracting carries a specific risk that is easy to miss: the laboratory rema
 This is why clause 6.6 requires that subcontractors be accredited for the relevant scope, that the customer is informed, and that a formal agreement defines responsibilities. The agreement is not a commercial formality. It is the document that clarifies who is responsible for what when something goes wrong.
 
 </div>
+
+<div className="nonconformity-example">
+
+## Common nonconformities
+
+Clause 6.6 findings are among the most frequent in ISO 17025 assessments because they sit at the intersection of technical quality and administrative discipline. The evidence is usually straightforward — either the records exist or they do not — which makes this section both easy to audit and easy to fail.
+
+### <span className="nc-tag nc-major">Major</span> No approved supplier list or supplier evaluation process
+
+*"The laboratory had no documented process for evaluating and approving suppliers of critical products and services. Reference materials, calibration services, and reagents were purchased based on price and availability without any formal assessment of supplier competence or suitability."*
+
+This is a fundamental gap. Without an approved supplier list, the laboratory has no mechanism to ensure that the products and services entering its measurement chain meet defined quality requirements. Any calibration standard, any CRM, any subcontracted result could come from an unqualified source — and the laboratory would have no basis for asserting traceability or quality. This is not an administrative oversight; it undermines the metrological foundation of every result the laboratory produces.
+
+### <span className="nc-tag nc-major">Major</span> CRM used beyond its certificate validity period
+
+*"A multi-element ICP-OES calibration standard with a certificate of analysis valid until March 2025 was found in routine use in September 2025. The analyst confirmed the material had been in continuous use. No re-certification or verification against a fresh standard had been performed."*
+
+An expired CRM is a standard with no metrological status. The certified values and their uncertainties are only valid within the stated period — beyond that, the material may have degraded, evaporated, or become contaminated. Every calibration performed with that standard after expiry is unsupported, and the results derived from it are potentially invalid. This finding typically triggers a review of all results produced during the period of non-compliance.
+
+### <span className="nc-tag nc-minor">Minor</span> Certificates of analysis not verified on receipt
+
+*"Incoming verification records did not include evidence that certificates of analysis for reference materials had been reviewed on receipt. The Quality Manager stated that CoAs were filed but acknowledged that certified values, traceability statements, and uncertainty information were not checked against the laboratory's requirements."*
+
+Filing a CoA is not the same as verifying it. The incoming check (Section 8.1) requires that someone confirms the certified values cover the measurands of interest, the uncertainties are fit for purpose, the traceability chain is stated, and the material is within its validity period. Without this step, the laboratory could unknowingly use a CRM that does not meet its needs — for example, a standard certified for total nickel but not for the specific oxidation state the method requires.
+
+### <span className="nc-tag nc-minor">Minor</span> Supplier re-evaluation overdue
+
+*"The approved supplier list showed 12 suppliers. Re-evaluation records existed for the initial approval of each supplier, but no re-evaluations had been performed since the list was established three years earlier. The procedure required re-evaluation every two years."*
+
+Initial approval is not permanent approval. Supplier performance can change: accreditations lapse, manufacturing processes change, quality control practices degrade. The re-evaluation cycle (Section 8.2) exists to catch these changes before they affect the laboratory's results. Overdue re-evaluations are a minor finding when no quality issues have occurred, but they indicate a systemic lapse in supplier oversight.
+
+### <span className="nc-tag nc-major">Major</span> Subcontracted testing without customer notification
+
+*"The laboratory had subcontracted particle morphology analysis by SEM to an external laboratory on four occasions over the past year. Results were included in reports to customers under the laboratory's name, but no evidence that customers had been informed of or had agreed to the subcontracting arrangement was available."*
+
+Clause 6.6 is explicit: the customer must be informed when work is subcontracted, and where required, must give approval. Including subcontracted results in a report without this notification is a transparency failure — the customer believes the laboratory performed the work when it did not. This finding is major because it affects the contractual relationship and the customer's ability to make informed decisions about the results they receive.
+
+### <span className="nc-tag nc-minor">Minor</span> No incoming verification for new reagent lots
+
+*"When a new lot of trace-metal grade nitric acid was received, it was placed directly into use without running a reagent blank. The previous lot had been in use for eight months. No incoming verification was documented for the new lot."*
+
+A new lot is a new batch — same catalog number, different manufacturing run. For trace analysis, the impurity profile of a new acid lot can differ enough to shift blank signals and affect results near the reporting limit. Running a blank with each new lot of a critical reagent (Section 8.1) is a basic control that takes minutes and prevents a bias that could go undetected for weeks. This is minor because it represents a single missed control, but the analytical risk is real.
+
+### How to use these examples
+
+Supplier management nonconformities cluster around two themes: *missing controls* (no evaluation, no verification, no re-evaluation) and *expired evidence* (lapsed CRMs, overdue re-evaluations, unchecked certificates). When auditing your own system, start with the approved supplier list and work outward: is every critical supplier on it? Is every entry current? Then follow the supply chain inward: for each critical product on the shelf, can you trace it back to an approved supplier, a verified CoA, and a valid certificate? Where the chain breaks, you have a finding.
+
+</div>
