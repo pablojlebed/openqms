@@ -525,3 +525,57 @@ ISO/IEC 17025 does not require the most accurate equipment available. It require
 "Fit for purpose" means the equipment's measurement capability — including its calibration uncertainty — is compatible with the measurement uncertainty the laboratory claims for its results. If the laboratory's reported uncertainty for nickel by ICP-OES is ±0.5%, then every instrument in the measurement chain (balance, volumetric ware, ICP-OES detector) must contribute an uncertainty that is small enough, in combination, to support that claim. Section 08 ensures the equipment is calibrated well enough to make the laboratory's uncertainty budget honest.
 
 </div>
+
+<div className="nonconformity-example">
+
+## Common nonconformities
+
+Clause 6.4 is one of the most heavily audited sections of ISO 17025. The evidence is concrete — calibration certificates, maintenance logs, equipment registers — and auditors can verify compliance by simply opening a file and checking a date. The examples below cover the findings that appear most frequently in assessment reports.
+
+### <span className="nc-tag nc-major">Major</span> Equipment used past its calibration due date
+
+*"Analytical balance BA-002 had a calibration due date of 15 January 2025. At the time of the assessment (14 March 2025), the balance was in routine use for weighing cathode material samples. No recalibration had been performed, and the balance was not labeled as overdue or out of service."*
+
+This is the single most common equipment finding in ISO 17025 assessments. Section 10.4 of this procedure is unambiguous: equipment past its calibration due date is out of service. The finding is major because every result produced on that balance since January is now in question. The retrospective impact assessment (Section 11.2) must cover the full two-month window, and any affected reports may need to be amended.
+
+### <span className="nc-tag nc-major">Major</span> No retrospective impact assessment after out-of-tolerance finding
+
+*"The annual calibration of pipette VD-005 (100 µL) revealed a systematic bias of +2.8%, exceeding the ±1.0% acceptance criterion. The pipette was recalibrated and returned to service. However, no assessment of the impact on results produced with that pipette during the preceding 12 months was documented."*
+
+Fixing the equipment is only half the response. The other half — and the more important half — is asking what happened to the results produced while the equipment was out of tolerance. A +2.8% volume bias means every sample prepared with that pipette received 2.8% more reagent or diluent than intended. Depending on the method, this could shift results by a measurable amount. Section 11.2 requires that the laboratory trace back to the last satisfactory calibration, identify affected results, and assess whether any reported values need to be corrected.
+
+### <span className="nc-tag nc-minor">Minor</span> Equipment register incomplete or not current
+
+*"The Equipment Register listed 34 items. A walkthrough of the laboratory identified three additional items in routine use — two temperature data loggers and a set of volumetric flasks — that were not in the register and had no calibration records."*
+
+If equipment is not in the register, it is invisible to the calibration system. It will not appear on the calibration schedule, it will not receive intermediate checks, and no one will notice when its calibration lapses. This finding is minor when the missing items are supporting equipment, but it can escalate to major if the unregistered items directly affect measurement results — as volumetric flasks used in standard preparation would.
+
+### <span className="nc-tag nc-minor">Minor</span> Intermediate checks not performed or not recorded
+
+*"The procedure specified monthly intermediate checks on analytical balances using certified reference weights. The check log for balance BA-001 showed entries for January, February, and March, but no entries from April through September — a six-month gap. The analyst confirmed the checks had not been performed."*
+
+Intermediate checks exist to narrow the window of risk between calibrations. A six-month gap means that if the balance drifted out of tolerance in April, the laboratory would not know until the next annual calibration — and would then face a retrospective assessment spanning many months of results. The finding is minor because the annual calibration was current, but it reveals that the early warning system was not functioning.
+
+### <span className="nc-tag nc-major">Major</span> No metrological traceability for calibration standards
+
+*"ICP-OES calibration standards were prepared from a multi-element stock solution purchased from a chemical supplier. The stock solution had a certificate of analysis listing concentration values, but no statement of metrological traceability to SI units or to a national metrology institute. The supplier was not accredited to ISO 17034."*
+
+Traceability is the backbone of Clause 6.5 and it feeds directly into equipment calibration. If the calibration standards used for ICP-OES are not traceable, then the calibration curves built from them are not traceable, and consequently every result derived from those curves has no metrological foundation. The laboratory may be producing precise and reproducible numbers, but it cannot demonstrate that those numbers are accurate in any absolute sense. This is a fundamental metrological gap, not an administrative one.
+
+### <span className="nc-tag nc-minor">Minor</span> Calibration status labels missing or outdated
+
+*"Of 15 items of equipment inspected, four did not bear calibration status labels: two pipettes, one reference thermometer, and one temperature data logger. A fifth item (analytical balance BA-003) had a label showing a next-due date that had passed three months earlier, though the calibration had in fact been performed on time — the label had not been updated."*
+
+Labels are the first-line control that allows any analyst to confirm, at a glance, whether a piece of equipment is safe to use. Missing or outdated labels create a risk that someone will use equipment that is out of service, or conversely, will hesitate to use equipment that is actually current. The finding is minor when the underlying calibrations are in order, but it signals a housekeeping gap in the equipment management system.
+
+### <span className="nc-tag nc-major">Major</span> No documented acceptance criteria for calibration results
+
+*"Calibration certificates for three analytical balances and two reference thermometers were on file. When asked what the laboratory's acceptance criteria were for these calibrations — i.e., the maximum permissible deviation — the Technical Manager stated the criteria were 'whatever the manufacturer specifies' but could not point to documented criteria linked to the laboratory's measurement requirements."*
+
+Acceptance criteria are what turn a calibration from a measurement exercise into a decision tool. Without them, the laboratory cannot determine whether an instrument is in tolerance or out of tolerance — and therefore cannot trigger the impact assessment process in Section 11. The criteria must be documented, traceable to the laboratory's measurement uncertainty requirements, and applied consistently when calibration certificates are reviewed. "Whatever the manufacturer says" is not a criterion — it is an abdication of the laboratory's responsibility to define its own fitness-for-purpose requirements.
+
+### How to use these examples
+
+Equipment nonconformities follow a predictable pattern: the laboratory has equipment, uses it, and may even calibrate it — but somewhere in the chain of *register → calibrate → check → label → assess impact → act* a link is missing. When reviewing your own equipment system, pick any instrument from the register and trace its full lifecycle: is it registered? Is its calibration current and traceable? Are intermediate checks being done? Is the status label correct? Has every out-of-tolerance finding triggered an impact assessment? If you can answer yes for every item in the register, your Section 08 is sound.
+
+</div>
