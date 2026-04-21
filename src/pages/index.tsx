@@ -6,7 +6,6 @@ import Translate, {translate} from '@docusaurus/Translate';
 import Layout from '@theme/Layout';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
 import Heading from '@theme/Heading';
-import Head from '@docusaurus/Head';
 
 import styles from './index.module.css';
 
@@ -43,11 +42,6 @@ export default function Home(): ReactNode {
     <Layout
       title={translate({id: 'homepage.title', message: 'Open QMS for ISO 17025 Labs'})}
       description={translate({id: 'homepage.description', message: 'OpenQMS 17025 is a free, open-source Quality Management System template and guide for testing and calibration laboratories seeking ISO/IEC 17025 accreditation.'})}>
-      <Head>
-        <meta name="twitter:title" content="OpenQMS 17025" />
-        <meta name="twitter:description" content="OpenQMS 17025 is a free, open-source Quality Management System template and guide for testing and calibration laboratories seeking ISO/IEC 17025 accreditation." />
-        <meta name="twitter:image" content="https://openqms.thelabguy.org/img/social-card.jpg" />
-      </Head>
       <HomepageHeader />
       <main>
         <HomepageFeatures />
