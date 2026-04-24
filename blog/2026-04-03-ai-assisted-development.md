@@ -8,7 +8,7 @@ description: Our approach to using artificial intelligence as a core tool in dev
 
 OpenQMS is developed with the assistance of AI. Here's why, and how.
 
-<!-- truncate -->
+{/* truncate */}
 
 ## The honest answer
 
