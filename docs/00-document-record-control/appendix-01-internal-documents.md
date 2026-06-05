@@ -71,9 +71,12 @@ The Quality Manager is responsible for keeping this list current. When a new doc
 | 09-App-03 | Report of Customer Satisfaction | 09 | 00 | *[Date]* | *[Name]* |
 | 10-App-01 | Test Method Development, Verification and Validation Register | 10 | 00 | *[Date]* | *[Name]* |
 | 10-App-02 | Test Method Development, Verification and Validation Record | 10 | 00 | *[Date]* | *[Name]* |
-| 11-App-01 | Proficiency Testing Record | 11 | 00 | *[Date]* | *[Name]* |
-| 11-App-02 | LIMS Validation Register | 11 | 00 | *[Date]* | *[Name]* |
-| 11-App-03 | LIMS Validation Record | 11 | 00 | *[Date]* | *[Name]* |
+| 11-App-01 | QC Plan Template | 11 | 00 | *[Date]* | *[Name]* |
+| 11-App-02 | Control Chart Template | 11 | 00 | *[Date]* | *[Name]* |
+| 11-App-03 | PT/ILC Participation Schedule | 11 | 00 | *[Date]* | *[Name]* |
+| 11-App-04 | Proficiency Testing Record | 11 | 00 | *[Date]* | *[Name]* |
+| 11-App-05 | LIMS Validation Register | 11 | 00 | *[Date]* | *[Name]* |
+| 11-App-06 | LIMS Validation Record | 11 | 00 | *[Date]* | *[Name]* |
 | 12-App-01 | Sampling Plan | 12 | 00 | *[Date]* | *[Name]* |
 | 12-App-02 | Sampling Report | 12 | 00 | *[Date]* | *[Name]* |
 | 13-App-01 | Test or Calibration Item Registration Log | 13 | 00 | *[Date]* | *[Name]* |
