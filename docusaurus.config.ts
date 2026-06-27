@@ -136,6 +136,16 @@ const config: Config = {
         },
         {to: '/blog', label: 'Updates', position: 'left'},
         {
+          type: 'dropdown',
+          label: 'Lab Tools',
+          position: 'right',
+          items: [
+            { label: 'ICP-MS Simulator', href: 'https://icpms-sim.thelabguy.org' },
+            { label: 'ICP-OES Simulator', href: 'https://icpoes-sim.thelabguy.org' },
+            { label: 'REE Mining Project', href: 'https://ree.thelabguy.org' }
+          ]
+        },
+        {
           type: 'localeDropdown',
           position: 'right',
         },
@@ -190,6 +200,14 @@ const config: Config = {
               label: 'Email Us',
               href: 'mailto:contact@thelabguy.org',
             },
+          ],
+        },
+        {
+          title: 'More by The Lab Guy',
+          items: [
+            { label: 'ICP-MS Simulator', href: 'https://icpms-sim.thelabguy.org' },
+            { label: 'ICP-OES Simulator', href: 'https://icpoes-sim.thelabguy.org' },
+            { label: 'REE Mining Project', href: 'https://ree.thelabguy.org' },
           ],
         },
         {

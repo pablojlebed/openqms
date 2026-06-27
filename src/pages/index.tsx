@@ -36,6 +36,59 @@ function HomepageHeader() {
   );
 }
 
+function OtherPortals() {
+  return (
+    <div style={{ padding: '4rem 0', backgroundColor: 'var(--ifm-background-color)' }}>
+      <div className="container">
+        <h2 style={{ textAlign: 'center', marginBottom: '2rem', fontSize: '2rem' }}>More by The Lab Guy</h2>
+        <div className="row">
+          <div className="col col--4" style={{ marginBottom: '2rem' }}>
+            <div className="card" style={{ height: '100%', display: 'flex', flexDirection: 'column', boxShadow: '0 4px 8px rgba(0,0,0,0.1)' }}>
+              <div className="card__header">
+                <h3>ICP-MS Simulator</h3>
+              </div>
+              <div className="card__body" style={{ flexGrow: 1 }}>
+                <p>An interactive simulator for inductively coupled plasma mass spectrometry. Practice method development and resolving polyatomic interferences without burning expensive argon gas.</p>
+              </div>
+              <div className="card__footer">
+                <a href="https://icpms-sim.thelabguy.org" className="button button--primary button--block" target="_blank" rel="noopener noreferrer">Launch Simulator</a>
+              </div>
+            </div>
+          </div>
+          
+          <div className="col col--4" style={{ marginBottom: '2rem' }}>
+            <div className="card" style={{ height: '100%', display: 'flex', flexDirection: 'column', boxShadow: '0 4px 8px rgba(0,0,0,0.1)' }}>
+              <div className="card__header">
+                <h3>ICP-OES Simulator</h3>
+              </div>
+              <div className="card__body" style={{ flexGrow: 1 }}>
+                <p>Master wavelength selection, matrix matching, and spectral interference correction on this interactive Optical Emission Spectrometry simulator.</p>
+              </div>
+              <div className="card__footer">
+                <a href="https://icpoes-sim.thelabguy.org" className="button button--primary button--block" target="_blank" rel="noopener noreferrer">Launch Simulator</a>
+              </div>
+            </div>
+          </div>
+
+          <div className="col col--4" style={{ marginBottom: '2rem' }}>
+            <div className="card" style={{ height: '100%', display: 'flex', flexDirection: 'column', boxShadow: '0 4px 8px rgba(0,0,0,0.1)' }}>
+              <div className="card__header">
+                <h3>REE Mining Project</h3>
+              </div>
+              <div className="card__body" style={{ flexGrow: 1 }}>
+                <p>A comprehensive technical deep-dive into the geology, metallurgy, and laboratory operations of Europe's largest Rare Earth Element deposit.</p>
+              </div>
+              <div className="card__footer">
+                <a href="https://ree.thelabguy.org" className="button button--primary button--block" target="_blank" rel="noopener noreferrer">Explore the Project</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+}
+
 export default function Home(): ReactNode {
   const {siteConfig} = useDocusaurusContext();
   return (
@@ -45,6 +98,7 @@ export default function Home(): ReactNode {
       <HomepageHeader />
       <main>
         <HomepageFeatures />
+        <OtherPortals />
       </main>
     </Layout>
   );
