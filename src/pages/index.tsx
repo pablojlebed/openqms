@@ -73,13 +73,13 @@ function OtherPortals() {
           <div className="col col--4" style={{ marginBottom: '2rem' }}>
             <div className="card" style={{ height: '100%', display: 'flex', flexDirection: 'column', boxShadow: '0 4px 8px rgba(0,0,0,0.1)' }}>
               <div className="card__header">
-                <h3>REE Mining Project</h3>
+                <h3>PharmaOS</h3>
               </div>
               <div className="card__body" style={{ flexGrow: 1 }}>
-                <p>A comprehensive technical deep-dive into the geology, metallurgy, and laboratory operations of Europe's largest Rare Earth Element deposit.</p>
+                <p>An open-source operating system designed for pharmaceutical manufacturing, ensuring full compliance with GMP and FDA regulations.</p>
               </div>
               <div className="card__footer">
-                <a href="https://ree.thelabguy.org" className="button button--primary button--block" target="_blank" rel="noopener noreferrer">Explore the Project</a>
+                <a href="https://pharmaos.thelabguy.org" className="button button--primary button--block" target="_blank" rel="noopener noreferrer">Explore PharmaOS</a>
               </div>
             </div>
           </div>

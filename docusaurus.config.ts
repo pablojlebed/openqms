@@ -142,7 +142,7 @@ const config: Config = {
           items: [
             { label: 'ICP-MS Simulator', href: 'https://icpms-sim.thelabguy.org' },
             { label: 'ICP-OES Simulator', href: 'https://icpoes-sim.thelabguy.org' },
-            { label: 'REE Mining Project', href: 'https://ree.thelabguy.org' }
+            { label: 'PharmaOS', href: 'https://pharmaos.thelabguy.org' }
           ]
         },
         {
@@ -207,7 +207,7 @@ const config: Config = {
           items: [
             { label: 'ICP-MS Simulator', href: 'https://icpms-sim.thelabguy.org' },
             { label: 'ICP-OES Simulator', href: 'https://icpoes-sim.thelabguy.org' },
-            { label: 'REE Mining Project', href: 'https://ree.thelabguy.org' },
+            { label: 'PharmaOS', href: 'https://pharmaos.thelabguy.org' },
           ],
         },
         {
