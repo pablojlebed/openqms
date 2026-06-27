@@ -35,7 +35,7 @@ For the battery materials laboratory, sampling activities may include:
 - Taking aliquots from large-volume reference solutions for archival or re-analysis
 - Sub-sampling received test portions when the customer provides more material than needed
 
-:::note When this procedure does not apply
+:::note[When this procedure does not apply]
 
 When the customer provides pre-collected samples and the laboratory has no involvement in the sampling process, this procedure does not apply. However, the laboratory must still assess whether the sample, as received, is suitable for the requested test — this is covered by [Procedure 13 — Handling of Test and Calibration Items](../13-handling-items/index.md). If the laboratory suspects the sample is not representative or has been compromised, it must inform the customer.
 
