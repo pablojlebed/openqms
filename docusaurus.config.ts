@@ -136,7 +136,6 @@ const config: Config = {
           position: 'left',
           label: 'Procedures',
         },
-        {to: '/blog', label: 'Updates', position: 'left'},
         {
           type: 'dropdown',
           label: 'Lab Tools',
@@ -184,10 +183,6 @@ const config: Config = {
             {
               label: 'Contributing',
               href: 'https://github.com/pablojlebed/openqms/issues',
-            },
-            {
-              label: 'Updates',
-              to: '/blog',
             },
           ],
         },
