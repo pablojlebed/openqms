@@ -17,3 +17,23 @@ release:
   label: Release
   permalink: /release
   description: Project releases and changelogs.
+
+update:
+  label: Update
+  permalink: /update
+  description: General updates and announcements.
+
+tools:
+  label: Tools
+  permalink: /tools
+  description: Supplementary tools and resources.
+
+simulators:
+  label: Simulators
+  permalink: /simulators
+  description: Interactive laboratory simulators.
+
+pharmaos:
+  label: PharmaOS
+  permalink: /pharmaos
+  description: PharmaOS project updates.
