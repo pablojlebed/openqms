@@ -113,7 +113,9 @@ const config: Config = {
     // OpenQMS branded social card
     image: 'img/social-card.jpg',
     colorMode: {
-      respectPrefersColorScheme: true,
+      defaultMode: 'dark',
+      disableSwitch: false,
+      respectPrefersColorScheme: false,
     },
     navbar: {
       title: 'OpenQMS 17025',
