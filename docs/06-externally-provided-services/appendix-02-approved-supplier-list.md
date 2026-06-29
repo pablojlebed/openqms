@@ -80,6 +80,6 @@ To maintain a single, current register of all suppliers that have been evaluated
 
 **Last updated:** *[Date]* — **Updated by:** *[Name]*
 
-:::tip Adapt this template
+:::tip[Adapt this template]
 Add or remove supplier categories to match your laboratory's needs. Some laboratories include software providers or training providers as separate categories. The key requirement is that every critical supplier is listed, evaluated, and monitored.
 :::

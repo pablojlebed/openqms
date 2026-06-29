@@ -76,6 +76,6 @@ The **Quality Manager** (or session facilitator) completes an attendance record 
 
 ---
 
-:::tip Adapt this template
+:::tip[Adapt this template]
 Consider adding columns for specific competencies assessed (e.g., "Safety awareness confirmed," "Method steps demonstrated"), employee development goals, or special needs (e.g., language support, accessibility). Keep records in a master register for easy audit access.
 :::

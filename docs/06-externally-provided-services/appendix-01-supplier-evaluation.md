@@ -80,6 +80,6 @@ Complete each criterion. Score: 0 = not met, 1 = partially met, 2 = fully met. M
 | **Reviewed by** (Technical Manager) | *[Enter]* | | *[Date]* |
 | **Approved by** | *[Enter]* | | *[Date]* |
 
-:::tip Adapt this template
+:::tip[Adapt this template]
 Adjust the evaluation criteria and scoring to match your laboratory's priorities. Some laboratories add criteria for environmental or ethical standards. For accredited suppliers, criteria 1 and 2 may carry sufficient weight to streamline the remaining assessment.
 :::

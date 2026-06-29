@@ -74,6 +74,6 @@ Record equipment removed from service permanently. Records are retained per Proc
 
 **Register maintained by:** *[Quality Manager name]* — **Last reviewed:** *[Date]*
 
-:::tip Adapt this template
+:::tip[Adapt this template]
 Pre-populate with your actual equipment. The sample entries above reflect the battery materials laboratory scope and can be replaced or extended. If you use a LIMS or asset management system, this register can be generated from that system — but ensure a controlled, reviewable version is always available.
 :::

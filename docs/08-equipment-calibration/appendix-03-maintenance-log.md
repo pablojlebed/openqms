@@ -139,6 +139,6 @@ Completed annually for management review input. Summarizes maintenance, faults, 
 
 **Reviewed by:** *[Technical Manager]* — **Date:** *[Date]*
 
-:::tip Adapt this template
+:::tip[Adapt this template]
 Maintain one log per major instrument. For groups of similar items (e.g., all pipettes, all data loggers), a combined log is acceptable as long as each item is individually identified. If you use a LIMS or CMMS (Computerized Maintenance Management System), these records can be generated from that system — but ensure controlled, reviewable versions are available for audit.
 :::

@@ -25,6 +25,6 @@ The Quality Manager reviews this list at least annually (or when notified of a n
 | E-003 | *[Test method standard, e.g., ASTM, EN, etc.]* | *[Version]* | *[Publisher]* | *[Location]* | *[Date]* |
 | ... | ... | ... | ... | ... | ... |
 
-:::tip Adapt this template
+:::tip[Adapt this template]
 Include all standards, regulations, and reference documents your laboratory uses — test methods, safety regulations, equipment manuals, and accreditation body policies.
 :::

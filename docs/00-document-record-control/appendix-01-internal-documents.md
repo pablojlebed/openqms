@@ -91,6 +91,6 @@ The Quality Manager is responsible for keeping this list current. When a new doc
 | 18-App-05 | Internal Audit Report | 18 | 00 | *[Date]* | *[Name]* |
 | 19-App-01 | Management Review Record | 19 | 00 | *[Date]* | *[Name]* |
 
-:::tip Adapt this template
+:::tip[Adapt this template]
 Add or remove columns to match your laboratory's needs. Some labs include a "Location" or "Format" column (paper/electronic). Update this register every time a new document or appendix is created or revised.
 :::

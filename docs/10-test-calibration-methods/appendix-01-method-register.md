@@ -75,6 +75,6 @@ Record the publication date of standard methods in use and document the outcome 
 
 **Register maintained by:** *[Technical Manager name]* — **Last reviewed:** *[Date]*
 
-:::tip Adapt this template
+:::tip[Adapt this template]
 Pre-populate Part A with your laboratory's actual methods. The sample entries reflect the battery materials laboratory scope. If your laboratory uses a LIMS or document management system that tracks method status, this register may be generated from that system — but a controlled, reviewable version must always be available for assessment purposes.
 :::

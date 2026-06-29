@@ -110,6 +110,6 @@ Document any concerns about competence and resulting training or evaluation.
 
 ---
 
-:::tip Adapt this template
+:::tip[Adapt this template]
 Adjust sections based on your laboratory's role structure. Some labs may emphasize specific methods or add sections for equipment qualifications, procedure-specific competence, or mentoring relationships.
 :::

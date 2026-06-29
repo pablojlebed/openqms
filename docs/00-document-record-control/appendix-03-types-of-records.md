@@ -32,6 +32,6 @@ Retention periods should be established based on accreditation body requirements
 Calibration certificates received from external providers are both **records** (evidence of calibration) retained here, and **external documents** that should also be listed in [Appendix 2 — List of External Documents](./appendix-02-external-documents).
 :::
 
-:::tip Define your retention periods
+:::tip[Define your retention periods]
 Common retention periods range from 3 to 10 years depending on jurisdiction and accreditation body. Check your national accreditation body's requirements before setting these values.
 :::

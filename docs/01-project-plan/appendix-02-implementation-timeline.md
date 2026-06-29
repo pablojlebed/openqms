@@ -19,7 +19,7 @@ To provide a structured template for planning and tracking the QMS implementatio
 3. Update the timeline periodically as the project progresses. Record actual completion dates alongside planned dates to track variance.
 4. Present the timeline at progress meetings and management reviews.
 
-:::tip Adapt this template
+:::tip[Adapt this template]
 Adjust the phases below to reflect your laboratory's specific circumstances. A small-to-medium laboratory starting with limited existing documentation may need 12–18 months. Laboratories with an established quality culture or partial ISO 9001 compliance may complete certain phases faster. Large or multi-site laboratories may need longer timelines and additional coordination tasks.
 :::
 

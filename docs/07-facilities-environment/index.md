@@ -146,7 +146,7 @@ Typical ranges for the battery materials laboratory:
 
 These ranges are documented in the **Record of Laboratory Environmental Controls** ([Appendix 07-App-01](./appendix-01-environmental-controls)).
 
-:::tip Adapt these ranges
+:::tip[Adapt these ranges]
 The ranges above are representative. Your actual ranges must reflect your specific instruments, methods, and reference material requirements. Always check equipment manuals and CRM certificates for the applicable conditions.
 :::
 

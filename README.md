@@ -32,7 +32,10 @@ The QMS is organized into 22 procedures (00–21), each covering a specific elem
 | 06 | Externally Provided Products and Services | Complete | 2 |
 | 07 | Facilities and Environmental Conditions | Complete | 1 |
 | 08 | Equipment Maintenance, Calibration and Verification | Complete | 3 |
-| 09–21 | Remaining procedures | Planned | — |
+| 09 | Customer Service | Complete | 2 |
+| 10 | Test and Calibration Methods | Complete | 3 |
+| 11 | Quality Assurance | Complete | 6 |
+| 12–21 | Remaining procedures | Planned | — |
 
 ## AI-assisted development
 

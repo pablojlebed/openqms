@@ -329,7 +329,7 @@ List all raw data, instrument output files, and calculation spreadsheets attache
 
 ---
 
-:::tip Using this template
+:::tip[Using this template]
 This template is written for a quantitative multi-analyte method (ICP-OES). For other method types, adapt the parameter sections accordingly:
 - **Karl Fischer moisture:** Omit linearity and LOQ tables; add blank titration data; focus on CRM recovery and repeatability.
 - **Laser diffraction:** Omit LOD/LOQ; add dispersion protocol study; focus on reference material recovery and repeatability of D10/D50/D90.

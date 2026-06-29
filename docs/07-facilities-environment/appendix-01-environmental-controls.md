@@ -125,6 +125,6 @@ Completed annually for management review input.
 
 **Reviewed by:** *[Quality Manager]* — **Date:** *[Date]*
 
-:::tip Adapt this template
+:::tip[Adapt this template]
 Adjust areas, parameters, and ranges to match your laboratory. If all monitoring is via continuous data loggers, Part B may be minimal — but retain it for areas where manual readings supplement or replace loggers (e.g., temporary setups, field work).
 :::

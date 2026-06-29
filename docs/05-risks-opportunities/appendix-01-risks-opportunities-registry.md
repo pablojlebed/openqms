@@ -116,6 +116,6 @@ This registry is reviewed periodically (at minimum annually) by laboratory manag
 
 ---
 
-:::tip Adapt this template
+:::tip[Adapt this template]
 Some laboratories use color-coding (red/yellow/green) for risk status. Others integrate this registry with a risk matrix spreadsheet or risk management software. The key is maintaining objective evidence that risks and opportunities are being considered and acted upon. Keep the registry accessible to quality management team members but secure from unauthorized access.
 :::

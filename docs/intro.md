@@ -42,7 +42,7 @@ Appendices are **controlled documents** — they get revised when the template c
 
 This process-based approach makes it much easier to implement and manage on a day-to-day basis while still ensuring complete compliance with the underlying ISO/IEC 17025:2017 clauses.
 
-:::tip Read this first
+:::tip[Read this first]
 Before diving into individual procedures, we recommend reading **[Understanding the System](./understanding-the-system)**. It explains *why* the QMS exists, how ISO 17025 thinks in terms of failure modes and defences, and how the procedures connect to each other. The map it provides makes everything that follows easier to navigate.
 :::
 

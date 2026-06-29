@@ -232,7 +232,7 @@ Typical intervals for the battery materials laboratory:
 | BET | Reference material check | Quarterly or per SOP |
 | XRD | Alignment standard check | Monthly or per SOP |
 
-:::tip Adapt these intervals
+:::tip[Adapt these intervals]
 The intervals above are starting points. Your actual intervals must be justified by your equipment's demonstrated stability, your measurement requirements, and any accreditation body guidance. Document the rationale for each interval.
 :::
 

@@ -20,7 +20,7 @@ To document the laboratory's quality objectives, track progress toward each obje
 4. Review all objectives during the **management review** (at least annually). Record the outcome in the "Review outcome" column.
 5. When an objective is achieved, either set a new target or replace it with a new objective that drives further improvement.
 
-:::tip Adapt this template
+:::tip[Adapt this template]
 Add or remove columns to suit your laboratory's needs. Some laboratories include a "Data source" column to specify where the measurement data comes from (e.g., LIMS report, training records, audit log). Others track objectives by department or functional area.
 :::
 

@@ -23,7 +23,7 @@ To provide a structured tool for evaluating the laboratory's current level of co
 4. Assign a priority (High / Medium / Low) based on the effort required and the criticality of the requirement.
 5. Use the completed checklist to inform the implementation timeline ([Appendix 2](./appendix-02-implementation-timeline)).
 
-:::tip Adapt this template
+:::tip[Adapt this template]
 This checklist covers the main clauses of ISO/IEC 17025:2017 at a summary level. Laboratories may expand individual rows into more granular sub-requirements as needed. Your accreditation body may also provide its own assessment checklist — use both for completeness.
 :::
 

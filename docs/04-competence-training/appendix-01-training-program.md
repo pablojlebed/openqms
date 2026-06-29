@@ -85,6 +85,6 @@ Professional development, advanced techniques, specialization.
 
 ---
 
-:::tip Adapt this template
+:::tip[Adapt this template]
 Add or modify columns to match your laboratory's needs (e.g., "Competence Status," "Refresher Required," "Cost"). Update this register when personnel are hired, when procedures change, or when competence gaps emerge.
 :::

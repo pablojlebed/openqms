@@ -87,6 +87,6 @@ A visual planning aid. Mark the month in which each calibration is due. Helps wi
 
 **Schedule maintained by:** *[Quality Manager name]* — **Last reviewed:** *[Date]*
 
-:::tip Adapt this template
+:::tip[Adapt this template]
 Replace the sample entries with your actual equipment. If you have many items, consider maintaining this schedule electronically (spreadsheet or LIMS) with automated reminders. Regardless of format, a controlled, reviewable version must be available for audit and management review.
 :::

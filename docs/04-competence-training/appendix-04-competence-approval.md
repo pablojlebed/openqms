@@ -142,6 +142,6 @@ If at any time an employee's competence is questioned, authorization may be susp
 
 ---
 
-:::tip Adapt this template
+:::tip[Adapt this template]
 Some laboratories maintain a master "Competency Matrix" listing all authorized personnel and methods in one table, with links to individual authorization records. This provides a quick reference for supervisors and auditors. Consider including specific procedure numbers, equipment serial numbers, or version dates of SOPs under which the person was trained.
 :::
