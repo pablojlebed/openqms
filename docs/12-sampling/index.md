@@ -37,7 +37,7 @@ For the battery materials laboratory, sampling activities may include:
 
 :::note[When this procedure does not apply]
 
-When the customer provides pre-collected samples and the laboratory has no involvement in the sampling process, this procedure does not apply. However, the laboratory must still assess whether the sample, as received, is suitable for the requested test — this is covered by [Procedure 13 — Handling of Test and Calibration Items](../13-handling-items/index.md). If the laboratory suspects the sample is not representative or has been compromised, it must inform the customer.
+When the customer provides pre-collected samples and the laboratory has no involvement in the sampling process, this procedure does not apply. However, the laboratory must still assess whether the sample, as received, is suitable for the requested test — this is covered by [Procedure 13 — Handling of Items Received for Testing](../13-handling-items/index.md). If the laboratory suspects the sample is not representative or has been compromised, it must inform the customer.
 
 :::
 
@@ -51,7 +51,7 @@ When the customer provides pre-collected samples and the laboratory has no invol
 - [Procedure 07 — Facilities and Environmental Conditions](../07-facilities-environment/index.md)
 - [Procedure 09 — Customer Service](../09-customer-service/index.md)
 - [Procedure 10 — Test and Calibration Methods](../10-test-calibration-methods/index.md)
-- [Procedure 13 — Handling of Test and Calibration Items](../13-handling-items/index.md)
+- [Procedure 13 — Handling of Items Received for Testing](../13-handling-items/index.md)
 - [Procedure 15 — Measurement Uncertainty](../15-measurement-uncertainty/index.md)
 
 ## 4. Definitions
@@ -293,7 +293,7 @@ The trade-off between sampling effort and acceptable uncertainty is a practical 
 | Procedure 07 — Facilities and Environmental Conditions | [Procedure 07](../07-facilities-environment/index.md) |
 | Procedure 09 — Customer Service | [Procedure 09](../09-customer-service/index.md) |
 | Procedure 10 — Test and Calibration Methods | [Procedure 10](../10-test-calibration-methods/index.md) |
-| Procedure 13 — Handling of Test and Calibration Items | [Procedure 13](../13-handling-items/index.md) |
+| Procedure 13 — Handling of Items Received for Testing | [Procedure 13](../13-handling-items/index.md) |
 | Procedure 15 — Measurement Uncertainty | [Procedure 15](../15-measurement-uncertainty/index.md) |
 
 ## 13. Revision history

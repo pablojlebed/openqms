@@ -113,7 +113,7 @@ const config: Config = {
     // OpenQMS branded social card
     image: 'img/social-card.jpg',
     colorMode: {
-      defaultMode: 'dark',
+      defaultMode: 'light',
       disableSwitch: false,
       respectPrefersColorScheme: false,
     },

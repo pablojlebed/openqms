@@ -101,7 +101,7 @@ The laboratory's QMS consists of **22 interconnected procedures** (numbered 00â€
 | 10 | Test and Calibration Methods | 7.2 | Select, validate, and verify test methods |
 | 11 | Quality Assurance | 7.7 | Monitor validity of results through proficiency testing and QC |
 | 12 | Sampling | 7.3 | Define sampling plans and procedures |
-| 13 | Handling of Items for Testing | 7.4 | Receive, store, and handle test items properly |
+| 13 | Handling of Items Received for Testing | 7.4 | Receive, store, and handle test items properly |
 | 14 | Complaints, Nonconformity and Corrective Action | 7.9, 7.10, 8.7 | Handle complaints and drive process improvements |
 | 15 | Evaluation of Measurement Uncertainty | 7.6 | Evaluate and report uncertainty in results |
 | 16 | Testing Reports | 7.8 | Prepare and issue test reports |
