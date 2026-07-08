@@ -137,6 +137,11 @@ const config: Config = {
           label: 'Procedures',
         },
         {
+          href: 'https://thelabguy.org',
+          label: 'Main Portal',
+          position: 'right',
+        },
+        {
           type: 'dropdown',
           label: 'Lab Tools',
           position: 'right',
@@ -202,6 +207,7 @@ const config: Config = {
         {
           title: 'More by The Lab Guy',
           items: [
+            { label: 'Main Portal', href: 'https://thelabguy.org' },
             { label: 'ICP-MS Simulator', href: 'https://icpms-sim.thelabguy.org' },
             { label: 'ICP-OES Simulator', href: 'https://icpoes-sim.thelabguy.org' },
             { label: 'PharmaOS', href: 'https://pharmaos.thelabguy.org' },
