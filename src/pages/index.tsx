@@ -1,10 +1,11 @@
-﻿import Head from '@docusaurus/Head';
-import Layout from '@theme/Layout';
+import Head from '@docusaurus/Head';
 
 export default function Home(): JSX.Element {
   return (
-    <Layout title="Project closed" description="This project is no longer publicly available.">
+    <>
       <Head>
+        <title>Project closed</title>
+        <meta name="description" content="This project is no longer publicly available." />
         <meta name="robots" content="noindex, nofollow" />
       </Head>
       <main
@@ -43,6 +44,6 @@ export default function Home(): JSX.Element {
           </p>
         </section>
       </main>
-    </Layout>
+    </>
   );
 }
